@@ -1,0 +1,273 @@
+@media only screen and (min-width: 687px) {
+	.home-menu .navbar-nav > li {
+		display: inline-block;
+	}
+	.navbar-nav{
+		float: right;
+	}
+	.home-menu .navbar-nav > li > a{
+		border-right: 1px solid #fff;
+	}
+	
+}	
+		
+		.login-hr{
+			margin-top:8px;
+			margin-bottom: 0px;
+		}
+		.container-full {
+			margin: 0 auto;
+			width: 100%;
+		}
+		.home-menu .navbar-header .navbar-toggle .icon-bar {
+			border: 1px solid #ffffff;
+		}
+		.navbar-brand {
+			color:#ffffff;
+		}
+		.pre-header{
+			background-color: #EBEBEB;
+			padding: 3px 3px;
+		}
+		.top-head-text {
+			float: left;
+			font-size: 1.1em;
+			margin: 7px 0 0;
+		}
+		.asom-sarkar {
+			background: rgba(0, 0, 0, 0) url("../../img/assam.png") no-repeat scroll 0 0 / contain ;
+			height: 72px;
+			margin: 9px 0 0 20px;
+			width: 138px;
+		}
+		.cm img {
+			width: 78px;
+			display: inline;
+			padding: 8px 0 5px;
+		}
+		.cm p {
+			font-size: 1.1em;
+			display: inline;
+			float: left; 
+			font-weight: bold;
+			line-height: 20px;
+			margin: 19px 0 0;
+			padding: 0;
+			text-align: right;
+		}
+		.cm p span {
+			display: block;
+			font-size: 0.7em;
+			font-weight: normal;
+		}
+		.login-header .portal-text {
+			color: #999;
+			font-size: 2.0em;
+			font-weight: bold;
+			letter-spacing: 0.5px;
+			line-height: 28px;
+			margin: 28px 0 0;
+			text-align: center;
+			text-transform: uppercase;
+		}
+		.blu {
+			color: #3C8DBC;
+		}
+		.green {
+			color: #27ae60 !important;
+		}
+		.home-menu {
+			background: #26A69A none repeat scroll 0 0;
+			border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+			border-radius: 0;
+			border-top: 0 solid rgba(0, 0, 0, 0.5);
+			margin: 0;
+			text-align: center;
+		}
+		.navbar {
+			min-height: 40px;
+		}
+		.nav {
+			list-style: outside none none;
+			margin-left: 0;
+		}
+		.navbar-nav {
+			height: auto;
+			width: 100%;
+			display: inline-block;
+			float: left;
+			text-align: center;
+		}
+		.home-menu .navbar-nav > li {
+			float: none;
+			text-align: center;
+		}
+		.home-menu .nav > li > a:focus, .home-menu .nav > li > a:hover, .home-menu .nav > li > a.active, .current{
+			background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #ffa144 0%, #f2973c 100%) repeat scroll 0 0;
+			color: #fff;
+			text-decoration: none;
+		}
+		li {
+			line-height: 20px;
+		}
+		.home-menu .navbar-nav > li > a {
+			font-size: 0.9em;
+			text-align: left;
+		}
+		.home-menu .navbar-nav > li > a {
+			color: rgba(255, 255, 255, 1.0);
+			display: block;
+			font-weight: normal;
+			letter-spacing: 1px;
+			margin-left: -1px;
+			text-transform: uppercase;
+		}
+		.home-menu .navbar-nav > li > a > i {
+			border-radius: 90%;
+			clear: inherit;
+			color: rgba(0, 0, 0, 0.5);
+			display: inline;
+			font-size: 1.2em;
+			margin: 2px;
+		}
+		.backgroundImg{
+			background: rgba(0, 0, 0, 0) url("../../img/banner.jpg");
+			background-size:     cover;                     
+			background-repeat:   no-repeat;
+			background-position: center center;  
+		}
+		.carouselArea{
+			padding:5px;
+		}
+		/*login screen size */
+		.panel-login {
+			background: rgba(255,255,255,0.6);
+			margin-right: 8px;
+			margin-left: 8px;
+			
+		}
+		.panel-login > .panel-heading {
+			background: rgba(255,255,255,0);
+			color: #00415d;
+			text-align: center;
+		}
+		.panel-login > .panel-heading a.active {
+			color: #029f5b;
+			font-size: 18px;
+		}
+		.panel-login > .panel-heading a {
+			font-weight: bold;
+			text-decoration: none;
+			transition: all 0.1s linear 0s;
+		}
+		.overlay{
+		  position: absolute;
+		  top: 30%;
+		  left: 60%;
+		  height: 100%;
+		  width: 30%;
+		  opacity: 0.9;
+		  z-index:25;
+		}
+		.login-footer {
+			background: #494949 none repeat scroll 0 0;
+			color: #fff;
+			padding: 10px 0;
+		}
+		.list-footer{
+			list-style-type: none;
+		}
+		.list-footer li{
+			display: inline;
+			padding: 2px;
+		}
+		.middleSection{
+			background-color: #EBEBEB;
+		}
+		.aboutUs-Para{
+			font-size: 1.4em;
+			padding: 15px;
+		}
+		.thumbnail{
+			font-size: 1.2em;
+			padding: 25px;
+			color: #fff;
+			background-color: #00A65A;
+			height: 80px;
+		}
+		/* Scrolling Styles */
+		.content {
+			background: rgba(255,255,255,0.6);
+			border-radius: 4px;
+			box-sizing: border-box;
+			height: 380px;
+			margin: 10px;
+			max-width: 97%;
+			overflow: auto;
+			padding: 20px;
+			position: relative;
+		}
+		.scroll-para{
+			font-size: 1.2em;
+		}
+		/*************OWL CAROUSEL STYLE**********/
+		.owl-dots {
+			text-align: center;
+		}		
+		.owl-theme .owl-controls{
+		margin-top:10px;
+		text-align:center;
+		-webkit-tap-highlight-color:transparent
+		}
+
+		.owl-theme .owl-controls .owl-nav [class*=owl-]{
+		color:#fff;
+		font-size:14px;
+		margin:5px;
+		padding:4px 7px;
+		background:#d6d6d6;
+		display:inline-block;
+		cursor:pointer;
+		-webkit-border-radius:3px;
+		-moz-border-radius:3px;
+		border-radius:3px
+		}
+
+		.owl-theme .owl-controls .owl-nav [class*=owl-]:hover{
+		background:#869791;
+		color:#fff;
+		text-decoration:none
+		}
+
+		.owl-theme .owl-controls .owl-nav .disabled{
+		opacity:.5;
+		cursor:default
+		}
+
+		.owl-theme .owl-dots .owl-dot{
+		display:inline-block;
+		zoom:1;
+		*display:inline
+		}
+
+		.owl-theme .owl-dots .owl-dot span{
+		width:10px;
+		height:10px;
+		margin:5px 7px;
+		background:#d6d6d6;
+		display:block;
+		-webkit-backface-visibility:visible;
+		-webkit-transition:opacity 200ms ease;
+		-moz-transition:opacity 200ms ease;
+		-ms-transition:opacity 200ms ease;
+		-o-transition:opacity 200ms ease;
+		transition:opacity 200ms ease;
+		-webkit-border-radius:30px;
+		-moz-border-radius:30px;
+		border-radius:30px
+		}
+
+		.owl-theme .owl-dots .owl-dot.active span,.owl-theme .owl-dots .owl-dot:hover span{
+		background:#869791
+		}
+		

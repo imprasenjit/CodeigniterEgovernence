@@ -1,0 +1,46 @@
+INFO - 23-02-2019 15:46:00 --> Config Class Initialized
+INFO - 23-02-2019 15:46:00 --> Hooks Class Initialized
+DEBUG - 23-02-2019 15:46:00 --> UTF-8 Support Enabled
+INFO - 23-02-2019 15:46:00 --> Utf8 Class Initialized
+INFO - 23-02-2019 15:46:00 --> URI Class Initialized
+DEBUG - 23-02-2019 15:46:00 --> No URI present. Default controller set.
+INFO - 23-02-2019 15:46:00 --> Router Class Initialized
+INFO - 23-02-2019 15:46:00 --> Output Class Initialized
+INFO - 23-02-2019 15:46:00 --> Security Class Initialized
+DEBUG - 23-02-2019 15:46:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 23-02-2019 15:46:00 --> Input Class Initialized
+INFO - 23-02-2019 15:46:00 --> Language Class Initialized
+INFO - 23-02-2019 15:46:01 --> Loader Class Initialized
+INFO - 23-02-2019 15:46:01 --> Helper loaded: url_helper
+INFO - 23-02-2019 15:46:01 --> Email Class Initialized
+INFO - 23-02-2019 15:46:01 --> Helper loaded: form_helper
+INFO - 23-02-2019 15:46:01 --> Form Validation Class Initialized
+DEBUG - 23-02-2019 15:46:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 23-02-2019 15:46:01 --> Session: Class initialized using 'files' driver.
+INFO - 23-02-2019 15:46:01 --> Controller Class Initialized
+INFO - 23-02-2019 15:46:01 --> Config Class Initialized
+INFO - 23-02-2019 15:46:01 --> Hooks Class Initialized
+DEBUG - 23-02-2019 15:46:01 --> UTF-8 Support Enabled
+INFO - 23-02-2019 15:46:01 --> Utf8 Class Initialized
+INFO - 23-02-2019 15:46:01 --> URI Class Initialized
+INFO - 23-02-2019 15:46:01 --> Router Class Initialized
+INFO - 23-02-2019 15:46:01 --> Output Class Initialized
+INFO - 23-02-2019 15:46:01 --> Security Class Initialized
+DEBUG - 23-02-2019 15:46:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 23-02-2019 15:46:01 --> Input Class Initialized
+INFO - 23-02-2019 15:46:01 --> Language Class Initialized
+INFO - 23-02-2019 15:46:01 --> Loader Class Initialized
+INFO - 23-02-2019 15:46:01 --> Helper loaded: url_helper
+INFO - 23-02-2019 15:46:01 --> Email Class Initialized
+INFO - 23-02-2019 15:46:01 --> Helper loaded: form_helper
+INFO - 23-02-2019 15:46:01 --> Form Validation Class Initialized
+DEBUG - 23-02-2019 15:46:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 23-02-2019 15:46:01 --> Session: Class initialized using 'files' driver.
+INFO - 23-02-2019 15:46:01 --> Controller Class Initialized
+INFO - 23-02-2019 15:46:01 --> Model Class Initialized
+INFO - 23-02-2019 15:46:01 --> File loaded: /var/www/html/eodbci/views/staffs/requires/login_header.php
+INFO - 23-02-2019 15:46:01 --> Database Driver Class Initialized
+INFO - 23-02-2019 15:46:01 --> File loaded: /var/www/html/eodbci/views/staffs/requires/login_footer.php
+INFO - 23-02-2019 15:46:01 --> File loaded: /var/www/html/eodbci/views/staffs/login_view.php
+INFO - 23-02-2019 15:46:01 --> Final output sent to browser
+DEBUG - 23-02-2019 15:46:01 --> Total execution time: 0.2610

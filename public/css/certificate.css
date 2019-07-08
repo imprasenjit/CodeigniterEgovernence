@@ -1,0 +1,32 @@
+font-face {
+    font-family: "AlgerFont";
+    src: url("../fonts/Alger.ttf");
+}
+td {
+    font-family:"AlgerFont";
+}
+.alomcertbl {
+    width: 210mm;
+    border: 4px double #222;
+    margin: 10px auto;                
+}
+table.alomcertbl th {
+    padding: 10px;
+}
+.alomlogoimg {
+    width: 120px;
+    height: 120px;
+}
+
+.alomheadertxt {
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 50px;
+}
+hr { 
+  display: block;
+  margin: 10px auto;
+  border-color: black;
+  border-width: 2px;
+} 

@@ -1,0 +1,6 @@
+<div role="tabpanel" class="tab-pane box box-primary" id="tpsc">
+	<h2>Third Party/ Self Certification</h2>		
+	<p>The Self Certification scheme for factories  is being introduced to streamline the functioning of the inspectorate of factories, Govt of Assam for effective implementation of various provisions under the different Labour Acts and Rules as administered by the inspectorate.</p>
+	<p>The objective of this Self  Certification scheme is to facilitate hassle free functioning of the industry/factory and at the same time ensure legitimate protection to the workers. This scheme is to streamline the requirements of inspection of specific industrial units which opt for this scheme without compromising on the safety, health and welfare of the workers and allow to submit a self-certification return in respect of compliances under the various provisions of labour laws as administered by the Inspectorate of Factories.</p>
+	<p>For more information please click on hyperlink and refer to Annexure -1, Annexure II, Annexure III , Annexure IV and Annexure IV -A (<a href="<?php echo $server_url; ?>dept_documents/factory/notifications/Factory Notifications.pdf" target="_blank"> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Factory Notifications.pdf</a>)</p>
+</div>

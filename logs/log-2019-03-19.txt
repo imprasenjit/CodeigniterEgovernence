@@ -1,0 +1,26 @@
+INFO - 19-03-2019 14:53:30 --> Config Class Initialized
+INFO - 19-03-2019 14:53:30 --> Hooks Class Initialized
+DEBUG - 19-03-2019 14:53:30 --> UTF-8 Support Enabled
+INFO - 19-03-2019 14:53:30 --> Utf8 Class Initialized
+INFO - 19-03-2019 14:53:30 --> URI Class Initialized
+DEBUG - 19-03-2019 14:53:30 --> No URI present. Default controller set.
+INFO - 19-03-2019 14:53:30 --> Router Class Initialized
+INFO - 19-03-2019 14:53:30 --> Output Class Initialized
+INFO - 19-03-2019 14:53:30 --> Security Class Initialized
+DEBUG - 19-03-2019 14:53:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 19-03-2019 14:53:30 --> Input Class Initialized
+INFO - 19-03-2019 14:53:30 --> Language Class Initialized
+INFO - 19-03-2019 14:53:30 --> Loader Class Initialized
+INFO - 19-03-2019 14:53:31 --> Helper loaded: url_helper
+INFO - 19-03-2019 14:53:31 --> Email Class Initialized
+INFO - 19-03-2019 14:53:31 --> Helper loaded: form_helper
+INFO - 19-03-2019 14:53:31 --> Form Validation Class Initialized
+DEBUG - 19-03-2019 14:53:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 19-03-2019 14:53:31 --> Session: Class initialized using 'files' driver.
+INFO - 19-03-2019 14:53:31 --> Controller Class Initialized
+INFO - 19-03-2019 14:53:31 --> Model Class Initialized
+INFO - 19-03-2019 14:53:31 --> Model Class Initialized
+INFO - 19-03-2019 14:53:31 --> Database Driver Class Initialized
+ERROR - 19-03-2019 14:53:31 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /var/www/html/eodbci/apps/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 19-03-2019 14:53:31 --> Unable to connect to the database
+INFO - 19-03-2019 14:53:31 --> Language file loaded: language/english/db_lang.php

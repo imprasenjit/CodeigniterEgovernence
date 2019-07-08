@@ -1,0 +1,617 @@
+INFO - 22-12-2018 17:42:41 --> Config Class Initialized
+INFO - 22-12-2018 17:42:41 --> Hooks Class Initialized
+DEBUG - 22-12-2018 17:42:41 --> UTF-8 Support Enabled
+INFO - 22-12-2018 17:42:41 --> Utf8 Class Initialized
+INFO - 22-12-2018 17:42:41 --> URI Class Initialized
+DEBUG - 22-12-2018 17:42:41 --> No URI present. Default controller set.
+INFO - 22-12-2018 17:42:41 --> Router Class Initialized
+INFO - 22-12-2018 17:42:41 --> Output Class Initialized
+INFO - 22-12-2018 17:42:41 --> Security Class Initialized
+DEBUG - 22-12-2018 17:42:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 22-12-2018 17:42:41 --> Input Class Initialized
+INFO - 22-12-2018 17:42:41 --> Language Class Initialized
+INFO - 22-12-2018 17:42:41 --> Loader Class Initialized
+INFO - 22-12-2018 17:42:41 --> Helper loaded: url_helper
+INFO - 22-12-2018 17:42:41 --> Email Class Initialized
+INFO - 22-12-2018 17:42:41 --> Helper loaded: form_helper
+INFO - 22-12-2018 17:42:41 --> Form Validation Class Initialized
+DEBUG - 22-12-2018 17:42:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 22-12-2018 17:42:41 --> Session: Class initialized using 'files' driver.
+INFO - 22-12-2018 17:42:41 --> Controller Class Initialized
+INFO - 22-12-2018 17:42:41 --> Model Class Initialized
+INFO - 22-12-2018 17:42:41 --> Model Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 22-12-2018 17:42:41 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 22-12-2018 17:42:41 --> Final output sent to browser
+DEBUG - 22-12-2018 17:42:41 --> Total execution time: 0.0375
+DEBUG - 22-12-2018 17:42:41 --> Session class already loaded. Second attempt ignored.
+INFO - 22-12-2018 17:42:41 --> Model Class Initialized
+INFO - 22-12-2018 17:42:41 --> Model Class Initialized
+INFO - 22-12-2018 17:42:41 --> Helper loaded: get_uain_details_helper
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:42:41 --> Model Class Initialized
+INFO - 22-12-2018 17:42:41 --> Database Driver Class Initialized
+ERROR - 22-12-2018 17:42:41 --> Severity: Notice --> Undefined variable: dagno /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 229
+ERROR - 22-12-2018 17:42:41 --> Severity: Notice --> Undefined variable: pattano /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 231
+ERROR - 22-12-2018 17:42:41 --> Severity: Notice --> Undefined variable: dagno /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 353
+ERROR - 22-12-2018 17:42:41 --> Severity: Notice --> Undefined variable: pattano /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 355
+INFO - 22-12-2018 17:43:34 --> Config Class Initialized
+INFO - 22-12-2018 17:43:34 --> Hooks Class Initialized
+DEBUG - 22-12-2018 17:43:34 --> UTF-8 Support Enabled
+INFO - 22-12-2018 17:43:34 --> Utf8 Class Initialized
+INFO - 22-12-2018 17:43:34 --> URI Class Initialized
+DEBUG - 22-12-2018 17:43:34 --> No URI present. Default controller set.
+INFO - 22-12-2018 17:43:34 --> Router Class Initialized
+INFO - 22-12-2018 17:43:34 --> Output Class Initialized
+INFO - 22-12-2018 17:43:34 --> Security Class Initialized
+DEBUG - 22-12-2018 17:43:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 22-12-2018 17:43:34 --> Input Class Initialized
+INFO - 22-12-2018 17:43:34 --> Language Class Initialized
+INFO - 22-12-2018 17:43:34 --> Loader Class Initialized
+INFO - 22-12-2018 17:43:34 --> Helper loaded: url_helper
+INFO - 22-12-2018 17:43:34 --> Email Class Initialized
+INFO - 22-12-2018 17:43:34 --> Helper loaded: form_helper
+INFO - 22-12-2018 17:43:34 --> Form Validation Class Initialized
+DEBUG - 22-12-2018 17:43:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 22-12-2018 17:43:34 --> Session: Class initialized using 'files' driver.
+INFO - 22-12-2018 17:43:34 --> Controller Class Initialized
+INFO - 22-12-2018 17:43:34 --> Model Class Initialized
+INFO - 22-12-2018 17:43:34 --> Model Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 22-12-2018 17:43:34 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 22-12-2018 17:43:34 --> Final output sent to browser
+DEBUG - 22-12-2018 17:43:34 --> Total execution time: 0.0368
+DEBUG - 22-12-2018 17:43:34 --> Session class already loaded. Second attempt ignored.
+INFO - 22-12-2018 17:43:34 --> Model Class Initialized
+INFO - 22-12-2018 17:43:34 --> Model Class Initialized
+INFO - 22-12-2018 17:43:34 --> Helper loaded: get_uain_details_helper
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:43:34 --> Model Class Initialized
+INFO - 22-12-2018 17:43:34 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Config Class Initialized
+INFO - 22-12-2018 17:47:19 --> Hooks Class Initialized
+DEBUG - 22-12-2018 17:47:19 --> UTF-8 Support Enabled
+INFO - 22-12-2018 17:47:19 --> Utf8 Class Initialized
+INFO - 22-12-2018 17:47:19 --> URI Class Initialized
+DEBUG - 22-12-2018 17:47:19 --> No URI present. Default controller set.
+INFO - 22-12-2018 17:47:19 --> Router Class Initialized
+INFO - 22-12-2018 17:47:19 --> Output Class Initialized
+INFO - 22-12-2018 17:47:19 --> Security Class Initialized
+DEBUG - 22-12-2018 17:47:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 22-12-2018 17:47:19 --> Input Class Initialized
+INFO - 22-12-2018 17:47:19 --> Language Class Initialized
+INFO - 22-12-2018 17:47:19 --> Loader Class Initialized
+INFO - 22-12-2018 17:47:19 --> Helper loaded: url_helper
+INFO - 22-12-2018 17:47:19 --> Email Class Initialized
+INFO - 22-12-2018 17:47:19 --> Helper loaded: form_helper
+INFO - 22-12-2018 17:47:19 --> Form Validation Class Initialized
+DEBUG - 22-12-2018 17:47:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 22-12-2018 17:47:19 --> Session: Class initialized using 'files' driver.
+INFO - 22-12-2018 17:47:19 --> Controller Class Initialized
+INFO - 22-12-2018 17:47:19 --> Model Class Initialized
+INFO - 22-12-2018 17:47:19 --> Model Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 22-12-2018 17:47:19 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 22-12-2018 17:47:19 --> Final output sent to browser
+DEBUG - 22-12-2018 17:47:19 --> Total execution time: 0.0333
+DEBUG - 22-12-2018 17:47:19 --> Session class already loaded. Second attempt ignored.
+INFO - 22-12-2018 17:47:19 --> Model Class Initialized
+INFO - 22-12-2018 17:47:19 --> Model Class Initialized
+INFO - 22-12-2018 17:47:19 --> Helper loaded: get_uain_details_helper
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:19 --> Model Class Initialized
+INFO - 22-12-2018 17:47:19 --> Database Driver Class Initialized
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 278
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 279
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 280
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 281
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 282
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 293
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 294
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 295
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 296
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 297
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 298
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 299
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 300
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 304
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 305
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 306
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: other /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 309
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: residential_other /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 314
+ERROR - 22-12-2018 17:47:19 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 557
+INFO - 22-12-2018 17:47:20 --> Config Class Initialized
+INFO - 22-12-2018 17:47:20 --> Hooks Class Initialized
+DEBUG - 22-12-2018 17:47:20 --> UTF-8 Support Enabled
+INFO - 22-12-2018 17:47:20 --> Utf8 Class Initialized
+INFO - 22-12-2018 17:47:20 --> URI Class Initialized
+DEBUG - 22-12-2018 17:47:20 --> No URI present. Default controller set.
+INFO - 22-12-2018 17:47:20 --> Router Class Initialized
+INFO - 22-12-2018 17:47:20 --> Output Class Initialized
+INFO - 22-12-2018 17:47:20 --> Security Class Initialized
+DEBUG - 22-12-2018 17:47:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 22-12-2018 17:47:20 --> Input Class Initialized
+INFO - 22-12-2018 17:47:20 --> Language Class Initialized
+INFO - 22-12-2018 17:47:20 --> Loader Class Initialized
+INFO - 22-12-2018 17:47:20 --> Helper loaded: url_helper
+INFO - 22-12-2018 17:47:20 --> Email Class Initialized
+INFO - 22-12-2018 17:47:20 --> Helper loaded: form_helper
+INFO - 22-12-2018 17:47:20 --> Form Validation Class Initialized
+DEBUG - 22-12-2018 17:47:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 22-12-2018 17:47:20 --> Session: Class initialized using 'files' driver.
+INFO - 22-12-2018 17:47:20 --> Controller Class Initialized
+INFO - 22-12-2018 17:47:20 --> Model Class Initialized
+INFO - 22-12-2018 17:47:20 --> Model Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 22-12-2018 17:47:20 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 22-12-2018 17:47:20 --> Final output sent to browser
+DEBUG - 22-12-2018 17:47:20 --> Total execution time: 0.0344
+DEBUG - 22-12-2018 17:47:20 --> Session class already loaded. Second attempt ignored.
+INFO - 22-12-2018 17:47:20 --> Model Class Initialized
+INFO - 22-12-2018 17:47:20 --> Model Class Initialized
+INFO - 22-12-2018 17:47:20 --> Helper loaded: get_uain_details_helper
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:47:20 --> Model Class Initialized
+INFO - 22-12-2018 17:47:20 --> Database Driver Class Initialized
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 278
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 279
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 280
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 281
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 282
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 293
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 294
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 295
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 296
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 297
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 298
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 299
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 300
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 304
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 305
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 306
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: other /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 309
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: residential_other /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 314
+ERROR - 22-12-2018 17:47:20 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 557
+INFO - 22-12-2018 17:54:41 --> Config Class Initialized
+INFO - 22-12-2018 17:54:41 --> Hooks Class Initialized
+DEBUG - 22-12-2018 17:54:41 --> UTF-8 Support Enabled
+INFO - 22-12-2018 17:54:41 --> Utf8 Class Initialized
+INFO - 22-12-2018 17:54:41 --> URI Class Initialized
+DEBUG - 22-12-2018 17:54:41 --> No URI present. Default controller set.
+INFO - 22-12-2018 17:54:41 --> Router Class Initialized
+INFO - 22-12-2018 17:54:41 --> Output Class Initialized
+INFO - 22-12-2018 17:54:41 --> Security Class Initialized
+DEBUG - 22-12-2018 17:54:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 22-12-2018 17:54:41 --> Input Class Initialized
+INFO - 22-12-2018 17:54:41 --> Language Class Initialized
+INFO - 22-12-2018 17:54:41 --> Loader Class Initialized
+INFO - 22-12-2018 17:54:41 --> Helper loaded: url_helper
+INFO - 22-12-2018 17:54:41 --> Email Class Initialized
+INFO - 22-12-2018 17:54:41 --> Helper loaded: form_helper
+INFO - 22-12-2018 17:54:41 --> Form Validation Class Initialized
+DEBUG - 22-12-2018 17:54:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 22-12-2018 17:54:41 --> Session: Class initialized using 'files' driver.
+INFO - 22-12-2018 17:54:41 --> Controller Class Initialized
+INFO - 22-12-2018 17:54:41 --> Model Class Initialized
+INFO - 22-12-2018 17:54:41 --> Model Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 22-12-2018 17:54:41 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 22-12-2018 17:54:41 --> Final output sent to browser
+DEBUG - 22-12-2018 17:54:41 --> Total execution time: 0.0338
+DEBUG - 22-12-2018 17:54:41 --> Session class already loaded. Second attempt ignored.
+INFO - 22-12-2018 17:54:41 --> Model Class Initialized
+INFO - 22-12-2018 17:54:41 --> Model Class Initialized
+INFO - 22-12-2018 17:54:41 --> Helper loaded: get_uain_details_helper
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:54:41 --> Model Class Initialized
+INFO - 22-12-2018 17:54:41 --> Database Driver Class Initialized
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 278
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 279
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 280
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 281
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 282
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 293
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 294
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 295
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 296
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 297
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 298
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 299
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 300
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 304
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 305
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 306
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: other /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 309
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: residential_other /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 314
+ERROR - 22-12-2018 17:54:41 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 557
+INFO - 22-12-2018 17:55:49 --> Config Class Initialized
+INFO - 22-12-2018 17:55:49 --> Hooks Class Initialized
+DEBUG - 22-12-2018 17:55:49 --> UTF-8 Support Enabled
+INFO - 22-12-2018 17:55:49 --> Utf8 Class Initialized
+INFO - 22-12-2018 17:55:49 --> URI Class Initialized
+DEBUG - 22-12-2018 17:55:49 --> No URI present. Default controller set.
+INFO - 22-12-2018 17:55:49 --> Router Class Initialized
+INFO - 22-12-2018 17:55:49 --> Output Class Initialized
+INFO - 22-12-2018 17:55:49 --> Security Class Initialized
+DEBUG - 22-12-2018 17:55:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 22-12-2018 17:55:49 --> Input Class Initialized
+INFO - 22-12-2018 17:55:49 --> Language Class Initialized
+INFO - 22-12-2018 17:55:49 --> Loader Class Initialized
+INFO - 22-12-2018 17:55:49 --> Helper loaded: url_helper
+INFO - 22-12-2018 17:55:49 --> Email Class Initialized
+INFO - 22-12-2018 17:55:49 --> Helper loaded: form_helper
+INFO - 22-12-2018 17:55:49 --> Form Validation Class Initialized
+DEBUG - 22-12-2018 17:55:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 22-12-2018 17:55:49 --> Session: Class initialized using 'files' driver.
+INFO - 22-12-2018 17:55:49 --> Controller Class Initialized
+INFO - 22-12-2018 17:55:49 --> Model Class Initialized
+INFO - 22-12-2018 17:55:49 --> Model Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 22-12-2018 17:55:49 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 22-12-2018 17:55:49 --> Final output sent to browser
+DEBUG - 22-12-2018 17:55:49 --> Total execution time: 0.0350
+DEBUG - 22-12-2018 17:55:49 --> Session class already loaded. Second attempt ignored.
+INFO - 22-12-2018 17:55:49 --> Model Class Initialized
+INFO - 22-12-2018 17:55:49 --> Model Class Initialized
+INFO - 22-12-2018 17:55:49 --> Helper loaded: get_uain_details_helper
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:49 --> Model Class Initialized
+INFO - 22-12-2018 17:55:49 --> Database Driver Class Initialized
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 278
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 279
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 280
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 281
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 282
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 293
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 294
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 295
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 296
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 297
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 298
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 299
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 300
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 304
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 305
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 306
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: other /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 309
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: residential_other /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 314
+ERROR - 22-12-2018 17:55:49 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 557
+INFO - 22-12-2018 17:55:52 --> Config Class Initialized
+INFO - 22-12-2018 17:55:52 --> Hooks Class Initialized
+DEBUG - 22-12-2018 17:55:52 --> UTF-8 Support Enabled
+INFO - 22-12-2018 17:55:52 --> Utf8 Class Initialized
+INFO - 22-12-2018 17:55:52 --> URI Class Initialized
+DEBUG - 22-12-2018 17:55:52 --> No URI present. Default controller set.
+INFO - 22-12-2018 17:55:52 --> Router Class Initialized
+INFO - 22-12-2018 17:55:52 --> Output Class Initialized
+INFO - 22-12-2018 17:55:52 --> Security Class Initialized
+DEBUG - 22-12-2018 17:55:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 22-12-2018 17:55:52 --> Input Class Initialized
+INFO - 22-12-2018 17:55:52 --> Language Class Initialized
+INFO - 22-12-2018 17:55:52 --> Loader Class Initialized
+INFO - 22-12-2018 17:55:52 --> Helper loaded: url_helper
+INFO - 22-12-2018 17:55:52 --> Email Class Initialized
+INFO - 22-12-2018 17:55:52 --> Helper loaded: form_helper
+INFO - 22-12-2018 17:55:52 --> Form Validation Class Initialized
+DEBUG - 22-12-2018 17:55:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 22-12-2018 17:55:52 --> Session: Class initialized using 'files' driver.
+INFO - 22-12-2018 17:55:52 --> Controller Class Initialized
+INFO - 22-12-2018 17:55:52 --> Model Class Initialized
+INFO - 22-12-2018 17:55:52 --> Model Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 22-12-2018 17:55:52 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 22-12-2018 17:55:52 --> Final output sent to browser
+DEBUG - 22-12-2018 17:55:52 --> Total execution time: 0.0361
+DEBUG - 22-12-2018 17:55:52 --> Session class already loaded. Second attempt ignored.
+INFO - 22-12-2018 17:55:52 --> Model Class Initialized
+INFO - 22-12-2018 17:55:52 --> Model Class Initialized
+INFO - 22-12-2018 17:55:52 --> Helper loaded: get_uain_details_helper
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+INFO - 22-12-2018 17:55:52 --> Model Class Initialized
+INFO - 22-12-2018 17:55:52 --> Database Driver Class Initialized
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 278
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 279
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 280
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 281
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 282
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 293
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 294
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 295
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 296
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 297
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 298
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 299
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: commercial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 300
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 304
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 305
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: industrial /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 306
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: other /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 309
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: residential_other /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 314
+ERROR - 22-12-2018 17:55:52 --> Severity: Notice --> Undefined variable: residential /var/www/html/eodbci/departments/jalboard/forms/jalboard_form1.php 557

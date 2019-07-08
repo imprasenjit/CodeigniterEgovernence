@@ -1,0 +1,888 @@
+INFO - 24-09-2018 10:19:58 --> Config Class Initialized
+INFO - 24-09-2018 10:19:58 --> Hooks Class Initialized
+DEBUG - 24-09-2018 10:19:58 --> UTF-8 Support Enabled
+INFO - 24-09-2018 10:19:58 --> Utf8 Class Initialized
+INFO - 24-09-2018 10:19:58 --> URI Class Initialized
+DEBUG - 24-09-2018 10:19:58 --> No URI present. Default controller set.
+INFO - 24-09-2018 10:19:58 --> Router Class Initialized
+INFO - 24-09-2018 10:19:58 --> Output Class Initialized
+INFO - 24-09-2018 10:19:58 --> Security Class Initialized
+DEBUG - 24-09-2018 10:19:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 24-09-2018 10:19:58 --> Input Class Initialized
+INFO - 24-09-2018 10:19:58 --> Language Class Initialized
+INFO - 24-09-2018 10:19:58 --> Loader Class Initialized
+INFO - 24-09-2018 10:19:58 --> Helper loaded: url_helper
+INFO - 24-09-2018 10:19:58 --> Email Class Initialized
+INFO - 24-09-2018 10:19:58 --> Helper loaded: form_helper
+INFO - 24-09-2018 10:19:58 --> Form Validation Class Initialized
+DEBUG - 24-09-2018 10:19:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 24-09-2018 10:19:58 --> Session: Class initialized using 'files' driver.
+INFO - 24-09-2018 10:19:58 --> Controller Class Initialized
+INFO - 24-09-2018 10:19:58 --> Model Class Initialized
+INFO - 24-09-2018 10:19:58 --> Model Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:19:58 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 24-09-2018 10:19:58 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 24-09-2018 10:19:58 --> Final output sent to browser
+DEBUG - 24-09-2018 10:19:58 --> Total execution time: 0.0552
+DEBUG - 24-09-2018 10:19:58 --> Session class already loaded. Second attempt ignored.
+INFO - 24-09-2018 10:44:01 --> Config Class Initialized
+INFO - 24-09-2018 10:44:01 --> Hooks Class Initialized
+DEBUG - 24-09-2018 10:44:01 --> UTF-8 Support Enabled
+INFO - 24-09-2018 10:44:01 --> Utf8 Class Initialized
+INFO - 24-09-2018 10:44:01 --> URI Class Initialized
+DEBUG - 24-09-2018 10:44:01 --> No URI present. Default controller set.
+INFO - 24-09-2018 10:44:01 --> Router Class Initialized
+INFO - 24-09-2018 10:44:01 --> Output Class Initialized
+INFO - 24-09-2018 10:44:01 --> Security Class Initialized
+DEBUG - 24-09-2018 10:44:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 24-09-2018 10:44:01 --> Input Class Initialized
+INFO - 24-09-2018 10:44:01 --> Language Class Initialized
+INFO - 24-09-2018 10:44:01 --> Loader Class Initialized
+INFO - 24-09-2018 10:44:01 --> Helper loaded: url_helper
+INFO - 24-09-2018 10:44:01 --> Email Class Initialized
+INFO - 24-09-2018 10:44:01 --> Helper loaded: form_helper
+INFO - 24-09-2018 10:44:01 --> Form Validation Class Initialized
+DEBUG - 24-09-2018 10:44:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 24-09-2018 10:44:01 --> Session: Class initialized using 'files' driver.
+INFO - 24-09-2018 10:44:01 --> Controller Class Initialized
+INFO - 24-09-2018 10:44:01 --> Model Class Initialized
+INFO - 24-09-2018 10:44:01 --> Model Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 24-09-2018 10:44:01 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 24-09-2018 10:44:01 --> Final output sent to browser
+DEBUG - 24-09-2018 10:44:01 --> Total execution time: 0.0206
+DEBUG - 24-09-2018 10:44:01 --> Session class already loaded. Second attempt ignored.
+INFO - 24-09-2018 10:44:01 --> Model Class Initialized
+INFO - 24-09-2018 10:44:01 --> Model Class Initialized
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/requires/login_session.php 83
+INFO - 24-09-2018 10:44:01 --> Helper loaded: get_uain_details_helper
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+INFO - 24-09-2018 10:44:01 --> Model Class Initialized
+INFO - 24-09-2018 10:44:01 --> Database Driver Class Initialized
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 71
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 73
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 77
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 79
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 83
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 92
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 94
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 98
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 100
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 104
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 121
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 123
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 127
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 129
+ERROR - 24-09-2018 10:44:01 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 133
+INFO - 24-09-2018 11:10:22 --> Config Class Initialized
+INFO - 24-09-2018 11:10:22 --> Hooks Class Initialized
+DEBUG - 24-09-2018 11:10:22 --> UTF-8 Support Enabled
+INFO - 24-09-2018 11:10:22 --> Utf8 Class Initialized
+INFO - 24-09-2018 11:10:22 --> URI Class Initialized
+DEBUG - 24-09-2018 11:10:22 --> No URI present. Default controller set.
+INFO - 24-09-2018 11:10:22 --> Router Class Initialized
+INFO - 24-09-2018 11:10:22 --> Output Class Initialized
+INFO - 24-09-2018 11:10:22 --> Security Class Initialized
+DEBUG - 24-09-2018 11:10:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 24-09-2018 11:10:22 --> Input Class Initialized
+INFO - 24-09-2018 11:10:22 --> Language Class Initialized
+INFO - 24-09-2018 11:10:22 --> Loader Class Initialized
+INFO - 24-09-2018 11:10:22 --> Helper loaded: url_helper
+INFO - 24-09-2018 11:10:22 --> Email Class Initialized
+INFO - 24-09-2018 11:10:22 --> Helper loaded: form_helper
+INFO - 24-09-2018 11:10:22 --> Form Validation Class Initialized
+DEBUG - 24-09-2018 11:10:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 24-09-2018 11:10:22 --> Session: Class initialized using 'files' driver.
+INFO - 24-09-2018 11:10:22 --> Controller Class Initialized
+INFO - 24-09-2018 11:10:22 --> Model Class Initialized
+INFO - 24-09-2018 11:10:22 --> Model Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 24-09-2018 11:10:22 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 24-09-2018 11:10:22 --> Final output sent to browser
+DEBUG - 24-09-2018 11:10:22 --> Total execution time: 0.0336
+DEBUG - 24-09-2018 11:10:22 --> Session class already loaded. Second attempt ignored.
+INFO - 24-09-2018 11:10:22 --> Model Class Initialized
+INFO - 24-09-2018 11:10:22 --> Model Class Initialized
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/requires/login_session.php 83
+INFO - 24-09-2018 11:10:22 --> Helper loaded: get_uain_details_helper
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:22 --> Model Class Initialized
+INFO - 24-09-2018 11:10:22 --> Database Driver Class Initialized
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 71
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 73
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 77
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 79
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 83
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 92
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 94
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 98
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 100
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 104
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 119
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 121
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 125
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 127
+ERROR - 24-09-2018 11:10:22 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 131
+INFO - 24-09-2018 11:10:48 --> Config Class Initialized
+INFO - 24-09-2018 11:10:48 --> Hooks Class Initialized
+DEBUG - 24-09-2018 11:10:48 --> UTF-8 Support Enabled
+INFO - 24-09-2018 11:10:48 --> Utf8 Class Initialized
+INFO - 24-09-2018 11:10:48 --> URI Class Initialized
+DEBUG - 24-09-2018 11:10:48 --> No URI present. Default controller set.
+INFO - 24-09-2018 11:10:48 --> Router Class Initialized
+INFO - 24-09-2018 11:10:48 --> Output Class Initialized
+INFO - 24-09-2018 11:10:48 --> Security Class Initialized
+DEBUG - 24-09-2018 11:10:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 24-09-2018 11:10:48 --> Input Class Initialized
+INFO - 24-09-2018 11:10:48 --> Language Class Initialized
+INFO - 24-09-2018 11:10:48 --> Loader Class Initialized
+INFO - 24-09-2018 11:10:48 --> Helper loaded: url_helper
+INFO - 24-09-2018 11:10:48 --> Email Class Initialized
+INFO - 24-09-2018 11:10:48 --> Helper loaded: form_helper
+INFO - 24-09-2018 11:10:48 --> Form Validation Class Initialized
+DEBUG - 24-09-2018 11:10:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 24-09-2018 11:10:48 --> Session: Class initialized using 'files' driver.
+INFO - 24-09-2018 11:10:48 --> Controller Class Initialized
+INFO - 24-09-2018 11:10:48 --> Model Class Initialized
+INFO - 24-09-2018 11:10:48 --> Model Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 24-09-2018 11:10:48 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 24-09-2018 11:10:48 --> Final output sent to browser
+DEBUG - 24-09-2018 11:10:48 --> Total execution time: 0.0351
+DEBUG - 24-09-2018 11:10:48 --> Session class already loaded. Second attempt ignored.
+INFO - 24-09-2018 11:10:48 --> Model Class Initialized
+INFO - 24-09-2018 11:10:48 --> Model Class Initialized
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/requires/login_session.php 83
+INFO - 24-09-2018 11:10:48 --> Helper loaded: get_uain_details_helper
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:10:48 --> Model Class Initialized
+INFO - 24-09-2018 11:10:48 --> Database Driver Class Initialized
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 71
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 73
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 77
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 79
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 83
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 92
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 94
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 98
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 100
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 104
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 121
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 123
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 127
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 129
+ERROR - 24-09-2018 11:10:48 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 133
+INFO - 24-09-2018 11:15:40 --> Config Class Initialized
+INFO - 24-09-2018 11:15:40 --> Hooks Class Initialized
+DEBUG - 24-09-2018 11:15:40 --> UTF-8 Support Enabled
+INFO - 24-09-2018 11:15:40 --> Utf8 Class Initialized
+INFO - 24-09-2018 11:15:40 --> URI Class Initialized
+DEBUG - 24-09-2018 11:15:40 --> No URI present. Default controller set.
+INFO - 24-09-2018 11:15:40 --> Router Class Initialized
+INFO - 24-09-2018 11:15:40 --> Output Class Initialized
+INFO - 24-09-2018 11:15:40 --> Security Class Initialized
+DEBUG - 24-09-2018 11:15:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 24-09-2018 11:15:40 --> Input Class Initialized
+INFO - 24-09-2018 11:15:40 --> Language Class Initialized
+INFO - 24-09-2018 11:15:40 --> Loader Class Initialized
+INFO - 24-09-2018 11:15:40 --> Helper loaded: url_helper
+INFO - 24-09-2018 11:15:40 --> Email Class Initialized
+INFO - 24-09-2018 11:15:40 --> Helper loaded: form_helper
+INFO - 24-09-2018 11:15:40 --> Form Validation Class Initialized
+DEBUG - 24-09-2018 11:15:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 24-09-2018 11:15:40 --> Session: Class initialized using 'files' driver.
+INFO - 24-09-2018 11:15:40 --> Controller Class Initialized
+INFO - 24-09-2018 11:15:40 --> Model Class Initialized
+INFO - 24-09-2018 11:15:40 --> Model Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 24-09-2018 11:15:40 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 24-09-2018 11:15:40 --> Final output sent to browser
+DEBUG - 24-09-2018 11:15:40 --> Total execution time: 0.0329
+DEBUG - 24-09-2018 11:15:40 --> Session class already loaded. Second attempt ignored.
+INFO - 24-09-2018 11:15:40 --> Model Class Initialized
+INFO - 24-09-2018 11:15:40 --> Model Class Initialized
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/requires/login_session.php 83
+INFO - 24-09-2018 11:15:40 --> Helper loaded: get_uain_details_helper
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:15:40 --> Model Class Initialized
+INFO - 24-09-2018 11:15:40 --> Database Driver Class Initialized
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 73
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 77
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 79
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 83
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 92
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 94
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 98
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 100
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 104
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 121
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 123
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 127
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 129
+ERROR - 24-09-2018 11:15:40 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form5.php 133
+INFO - 24-09-2018 11:18:51 --> Config Class Initialized
+INFO - 24-09-2018 11:18:51 --> Hooks Class Initialized
+DEBUG - 24-09-2018 11:18:51 --> UTF-8 Support Enabled
+INFO - 24-09-2018 11:18:51 --> Utf8 Class Initialized
+INFO - 24-09-2018 11:18:51 --> URI Class Initialized
+DEBUG - 24-09-2018 11:18:51 --> No URI present. Default controller set.
+INFO - 24-09-2018 11:18:51 --> Router Class Initialized
+INFO - 24-09-2018 11:18:51 --> Output Class Initialized
+INFO - 24-09-2018 11:18:51 --> Security Class Initialized
+DEBUG - 24-09-2018 11:18:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 24-09-2018 11:18:51 --> Input Class Initialized
+INFO - 24-09-2018 11:18:51 --> Language Class Initialized
+INFO - 24-09-2018 11:18:51 --> Loader Class Initialized
+INFO - 24-09-2018 11:18:51 --> Helper loaded: url_helper
+INFO - 24-09-2018 11:18:51 --> Email Class Initialized
+INFO - 24-09-2018 11:18:51 --> Helper loaded: form_helper
+INFO - 24-09-2018 11:18:51 --> Form Validation Class Initialized
+DEBUG - 24-09-2018 11:18:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 24-09-2018 11:18:51 --> Session: Class initialized using 'files' driver.
+INFO - 24-09-2018 11:18:51 --> Controller Class Initialized
+INFO - 24-09-2018 11:18:51 --> Model Class Initialized
+INFO - 24-09-2018 11:18:51 --> Model Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 24-09-2018 11:18:51 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 24-09-2018 11:18:51 --> Final output sent to browser
+DEBUG - 24-09-2018 11:18:51 --> Total execution time: 0.0351
+DEBUG - 24-09-2018 11:18:51 --> Session class already loaded. Second attempt ignored.
+INFO - 24-09-2018 11:18:51 --> Model Class Initialized
+INFO - 24-09-2018 11:18:51 --> Model Class Initialized
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/requires/login_session.php 83
+INFO - 24-09-2018 11:18:51 --> Helper loaded: get_uain_details_helper
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+INFO - 24-09-2018 11:18:51 --> Model Class Initialized
+INFO - 24-09-2018 11:18:51 --> Database Driver Class Initialized
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 71
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 73
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 77
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 79
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 83
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 92
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 94
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 98
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 100
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 104
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 119
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 121
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 125
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 127
+ERROR - 24-09-2018 11:18:51 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form2.php 131
+INFO - 24-09-2018 12:26:38 --> Config Class Initialized
+INFO - 24-09-2018 12:26:38 --> Hooks Class Initialized
+DEBUG - 24-09-2018 12:26:38 --> UTF-8 Support Enabled
+INFO - 24-09-2018 12:26:38 --> Utf8 Class Initialized
+INFO - 24-09-2018 12:26:38 --> URI Class Initialized
+DEBUG - 24-09-2018 12:26:38 --> No URI present. Default controller set.
+INFO - 24-09-2018 12:26:38 --> Router Class Initialized
+INFO - 24-09-2018 12:26:38 --> Output Class Initialized
+INFO - 24-09-2018 12:26:38 --> Security Class Initialized
+DEBUG - 24-09-2018 12:26:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 24-09-2018 12:26:38 --> Input Class Initialized
+INFO - 24-09-2018 12:26:38 --> Language Class Initialized
+INFO - 24-09-2018 12:26:38 --> Loader Class Initialized
+INFO - 24-09-2018 12:26:38 --> Helper loaded: url_helper
+INFO - 24-09-2018 12:26:38 --> Email Class Initialized
+INFO - 24-09-2018 12:26:38 --> Helper loaded: form_helper
+INFO - 24-09-2018 12:26:38 --> Form Validation Class Initialized
+DEBUG - 24-09-2018 12:26:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 24-09-2018 12:26:38 --> Session: Class initialized using 'files' driver.
+INFO - 24-09-2018 12:26:38 --> Controller Class Initialized
+INFO - 24-09-2018 12:26:38 --> Model Class Initialized
+INFO - 24-09-2018 12:26:38 --> Model Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> Database Driver Class Initialized
+INFO - 24-09-2018 12:26:38 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 24-09-2018 12:26:38 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 24-09-2018 12:26:38 --> Final output sent to browser
+DEBUG - 24-09-2018 12:26:38 --> Total execution time: 0.0353
+DEBUG - 24-09-2018 12:26:38 --> Session class already loaded. Second attempt ignored.
+INFO - 24-09-2018 16:45:43 --> Config Class Initialized
+INFO - 24-09-2018 16:45:43 --> Hooks Class Initialized
+DEBUG - 24-09-2018 16:45:43 --> UTF-8 Support Enabled
+INFO - 24-09-2018 16:45:43 --> Utf8 Class Initialized
+INFO - 24-09-2018 16:45:43 --> URI Class Initialized
+DEBUG - 24-09-2018 16:45:43 --> No URI present. Default controller set.
+INFO - 24-09-2018 16:45:43 --> Router Class Initialized
+INFO - 24-09-2018 16:45:43 --> Output Class Initialized
+INFO - 24-09-2018 16:45:43 --> Security Class Initialized
+DEBUG - 24-09-2018 16:45:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 24-09-2018 16:45:43 --> Input Class Initialized
+INFO - 24-09-2018 16:45:43 --> Language Class Initialized
+INFO - 24-09-2018 16:45:43 --> Loader Class Initialized
+INFO - 24-09-2018 16:45:43 --> Helper loaded: url_helper
+INFO - 24-09-2018 16:45:43 --> Email Class Initialized
+INFO - 24-09-2018 16:45:43 --> Helper loaded: form_helper
+INFO - 24-09-2018 16:45:43 --> Form Validation Class Initialized
+DEBUG - 24-09-2018 16:45:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 24-09-2018 16:45:43 --> Session: Class initialized using 'files' driver.
+INFO - 24-09-2018 16:45:43 --> Controller Class Initialized
+INFO - 24-09-2018 16:45:43 --> Model Class Initialized
+INFO - 24-09-2018 16:45:43 --> Model Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 24-09-2018 16:45:43 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 24-09-2018 16:45:43 --> Final output sent to browser
+DEBUG - 24-09-2018 16:45:43 --> Total execution time: 0.0340
+DEBUG - 24-09-2018 16:45:43 --> Session class already loaded. Second attempt ignored.
+INFO - 24-09-2018 16:45:43 --> Model Class Initialized
+INFO - 24-09-2018 16:45:43 --> Model Class Initialized
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/requires/login_session.php 83
+INFO - 24-09-2018 16:45:43 --> Helper loaded: get_uain_details_helper
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 16:45:43 --> Model Class Initialized
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 172
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 174
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 178
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 180
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 184
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 225
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 227
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 231
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 233
+ERROR - 24-09-2018 16:45:43 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 237
+INFO - 24-09-2018 16:45:43 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Config Class Initialized
+INFO - 24-09-2018 18:12:23 --> Hooks Class Initialized
+DEBUG - 24-09-2018 18:12:23 --> UTF-8 Support Enabled
+INFO - 24-09-2018 18:12:23 --> Utf8 Class Initialized
+INFO - 24-09-2018 18:12:23 --> URI Class Initialized
+DEBUG - 24-09-2018 18:12:23 --> No URI present. Default controller set.
+INFO - 24-09-2018 18:12:23 --> Router Class Initialized
+INFO - 24-09-2018 18:12:23 --> Output Class Initialized
+INFO - 24-09-2018 18:12:23 --> Security Class Initialized
+DEBUG - 24-09-2018 18:12:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 24-09-2018 18:12:23 --> Input Class Initialized
+INFO - 24-09-2018 18:12:23 --> Language Class Initialized
+INFO - 24-09-2018 18:12:23 --> Loader Class Initialized
+INFO - 24-09-2018 18:12:23 --> Helper loaded: url_helper
+INFO - 24-09-2018 18:12:23 --> Email Class Initialized
+INFO - 24-09-2018 18:12:23 --> Helper loaded: form_helper
+INFO - 24-09-2018 18:12:23 --> Form Validation Class Initialized
+DEBUG - 24-09-2018 18:12:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 24-09-2018 18:12:23 --> Session: Class initialized using 'files' driver.
+INFO - 24-09-2018 18:12:23 --> Controller Class Initialized
+INFO - 24-09-2018 18:12:23 --> Model Class Initialized
+INFO - 24-09-2018 18:12:23 --> Model Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 24-09-2018 18:12:23 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 24-09-2018 18:12:23 --> Final output sent to browser
+DEBUG - 24-09-2018 18:12:23 --> Total execution time: 0.0339
+DEBUG - 24-09-2018 18:12:23 --> Session class already loaded. Second attempt ignored.
+INFO - 24-09-2018 18:12:23 --> Model Class Initialized
+INFO - 24-09-2018 18:12:23 --> Model Class Initialized
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/requires/login_session.php 82
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/requires/login_session.php 83
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/requires/login_session.php 83
+INFO - 24-09-2018 18:12:23 --> Helper loaded: get_uain_details_helper
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:12:23 --> Model Class Initialized
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: b_street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 172
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: b_street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 174
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: b_vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 178
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: b_dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 180
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: b_pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 184
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: street_name1 /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 225
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: street_name2 /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 227
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: vill /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 231
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: dist /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 233
+ERROR - 24-09-2018 18:12:23 --> Severity: Notice --> Undefined variable: pincode /var/www/html/eodbci/departments/labour/forms/lc_reg_form1.php 237
+INFO - 24-09-2018 18:12:23 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Config Class Initialized
+INFO - 24-09-2018 18:25:20 --> Hooks Class Initialized
+DEBUG - 24-09-2018 18:25:20 --> UTF-8 Support Enabled
+INFO - 24-09-2018 18:25:20 --> Utf8 Class Initialized
+INFO - 24-09-2018 18:25:20 --> URI Class Initialized
+DEBUG - 24-09-2018 18:25:20 --> No URI present. Default controller set.
+INFO - 24-09-2018 18:25:20 --> Router Class Initialized
+INFO - 24-09-2018 18:25:20 --> Output Class Initialized
+INFO - 24-09-2018 18:25:20 --> Security Class Initialized
+DEBUG - 24-09-2018 18:25:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 24-09-2018 18:25:20 --> Input Class Initialized
+INFO - 24-09-2018 18:25:20 --> Language Class Initialized
+INFO - 24-09-2018 18:25:20 --> Loader Class Initialized
+INFO - 24-09-2018 18:25:20 --> Helper loaded: url_helper
+INFO - 24-09-2018 18:25:20 --> Email Class Initialized
+INFO - 24-09-2018 18:25:20 --> Helper loaded: form_helper
+INFO - 24-09-2018 18:25:20 --> Form Validation Class Initialized
+DEBUG - 24-09-2018 18:25:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 24-09-2018 18:25:20 --> Session: Class initialized using 'files' driver.
+INFO - 24-09-2018 18:25:20 --> Controller Class Initialized
+INFO - 24-09-2018 18:25:20 --> Model Class Initialized
+INFO - 24-09-2018 18:25:20 --> Model Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> Database Driver Class Initialized
+INFO - 24-09-2018 18:25:20 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 24-09-2018 18:25:20 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 24-09-2018 18:25:20 --> Final output sent to browser
+DEBUG - 24-09-2018 18:25:20 --> Total execution time: 0.0338
+DEBUG - 24-09-2018 18:25:20 --> Session class already loaded. Second attempt ignored.

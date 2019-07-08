@@ -1,0 +1,72 @@
+INFO - 09-02-2019 11:00:13 --> Config Class Initialized
+INFO - 09-02-2019 11:00:13 --> Hooks Class Initialized
+DEBUG - 09-02-2019 11:00:13 --> UTF-8 Support Enabled
+INFO - 09-02-2019 11:00:13 --> Utf8 Class Initialized
+INFO - 09-02-2019 11:00:13 --> URI Class Initialized
+DEBUG - 09-02-2019 11:00:13 --> No URI present. Default controller set.
+INFO - 09-02-2019 11:00:13 --> Router Class Initialized
+INFO - 09-02-2019 11:00:13 --> Output Class Initialized
+INFO - 09-02-2019 11:00:13 --> Security Class Initialized
+DEBUG - 09-02-2019 11:00:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 09-02-2019 11:00:13 --> Input Class Initialized
+INFO - 09-02-2019 11:00:13 --> Language Class Initialized
+INFO - 09-02-2019 11:00:13 --> Loader Class Initialized
+INFO - 09-02-2019 11:00:13 --> Helper loaded: url_helper
+INFO - 09-02-2019 11:00:13 --> Email Class Initialized
+INFO - 09-02-2019 11:00:13 --> Helper loaded: form_helper
+INFO - 09-02-2019 11:00:13 --> Form Validation Class Initialized
+DEBUG - 09-02-2019 11:00:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 09-02-2019 11:00:13 --> Session: Class initialized using 'files' driver.
+INFO - 09-02-2019 11:00:13 --> Controller Class Initialized
+INFO - 09-02-2019 11:00:13 --> Config Class Initialized
+INFO - 09-02-2019 11:00:13 --> Hooks Class Initialized
+DEBUG - 09-02-2019 11:00:13 --> UTF-8 Support Enabled
+INFO - 09-02-2019 11:00:13 --> Utf8 Class Initialized
+INFO - 09-02-2019 11:00:13 --> URI Class Initialized
+INFO - 09-02-2019 11:00:13 --> Router Class Initialized
+INFO - 09-02-2019 11:00:13 --> Output Class Initialized
+INFO - 09-02-2019 11:00:13 --> Security Class Initialized
+DEBUG - 09-02-2019 11:00:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 09-02-2019 11:00:13 --> Input Class Initialized
+INFO - 09-02-2019 11:00:13 --> Language Class Initialized
+INFO - 09-02-2019 11:00:13 --> Loader Class Initialized
+INFO - 09-02-2019 11:00:13 --> Helper loaded: url_helper
+INFO - 09-02-2019 11:00:13 --> Email Class Initialized
+INFO - 09-02-2019 11:00:13 --> Helper loaded: form_helper
+INFO - 09-02-2019 11:00:13 --> Form Validation Class Initialized
+DEBUG - 09-02-2019 11:00:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 09-02-2019 11:00:13 --> Session: Class initialized using 'files' driver.
+INFO - 09-02-2019 11:00:13 --> Controller Class Initialized
+INFO - 09-02-2019 11:00:13 --> Model Class Initialized
+INFO - 09-02-2019 11:00:13 --> File loaded: /var/www/html/eodbci/views/staffs/requires/login_header.php
+INFO - 09-02-2019 11:00:13 --> Database Driver Class Initialized
+ERROR - 09-02-2019 11:00:13 --> Query error: Table 'officemanagement.SubDepartment' doesn't exist - Invalid query: SELECT *
+FROM `SubDepartment`
+WHERE `status` = '1'
+INFO - 09-02-2019 11:00:13 --> Language file loaded: language/english/db_lang.php
+INFO - 09-02-2019 14:51:12 --> Config Class Initialized
+INFO - 09-02-2019 14:51:12 --> Hooks Class Initialized
+DEBUG - 09-02-2019 14:51:12 --> UTF-8 Support Enabled
+INFO - 09-02-2019 14:51:12 --> Utf8 Class Initialized
+INFO - 09-02-2019 14:51:12 --> URI Class Initialized
+INFO - 09-02-2019 14:51:12 --> Router Class Initialized
+INFO - 09-02-2019 14:51:12 --> Output Class Initialized
+INFO - 09-02-2019 14:51:12 --> Security Class Initialized
+DEBUG - 09-02-2019 14:51:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 09-02-2019 14:51:12 --> Input Class Initialized
+INFO - 09-02-2019 14:51:12 --> Language Class Initialized
+INFO - 09-02-2019 14:51:12 --> Loader Class Initialized
+INFO - 09-02-2019 14:51:12 --> Helper loaded: url_helper
+INFO - 09-02-2019 14:51:12 --> Email Class Initialized
+INFO - 09-02-2019 14:51:12 --> Helper loaded: form_helper
+INFO - 09-02-2019 14:51:12 --> Form Validation Class Initialized
+DEBUG - 09-02-2019 14:51:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 09-02-2019 14:51:12 --> Session: Class initialized using 'files' driver.
+INFO - 09-02-2019 14:51:12 --> Controller Class Initialized
+INFO - 09-02-2019 14:51:12 --> Model Class Initialized
+INFO - 09-02-2019 14:51:12 --> File loaded: /var/www/html/eodbci/views/staffs/requires/login_header.php
+INFO - 09-02-2019 14:51:12 --> Database Driver Class Initialized
+ERROR - 09-02-2019 14:51:12 --> Query error: Table 'officemanagement.SubDepartment' doesn't exist - Invalid query: SELECT *
+FROM `SubDepartment`
+WHERE `status` = '1'
+INFO - 09-02-2019 14:51:12 --> Language file loaded: language/english/db_lang.php

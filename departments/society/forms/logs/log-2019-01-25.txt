@@ -1,0 +1,75 @@
+INFO - 25-01-2019 15:07:41 --> Config Class Initialized
+INFO - 25-01-2019 15:07:41 --> Hooks Class Initialized
+DEBUG - 25-01-2019 15:07:41 --> UTF-8 Support Enabled
+INFO - 25-01-2019 15:07:41 --> Utf8 Class Initialized
+INFO - 25-01-2019 15:07:41 --> URI Class Initialized
+DEBUG - 25-01-2019 15:07:41 --> No URI present. Default controller set.
+INFO - 25-01-2019 15:07:41 --> Router Class Initialized
+INFO - 25-01-2019 15:07:41 --> Output Class Initialized
+INFO - 25-01-2019 15:07:41 --> Security Class Initialized
+DEBUG - 25-01-2019 15:07:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 25-01-2019 15:07:41 --> Input Class Initialized
+INFO - 25-01-2019 15:07:41 --> Language Class Initialized
+INFO - 25-01-2019 15:07:41 --> Loader Class Initialized
+INFO - 25-01-2019 15:07:41 --> Helper loaded: url_helper
+INFO - 25-01-2019 15:07:41 --> Email Class Initialized
+INFO - 25-01-2019 15:07:41 --> Helper loaded: form_helper
+INFO - 25-01-2019 15:07:41 --> Form Validation Class Initialized
+DEBUG - 25-01-2019 15:07:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 25-01-2019 15:07:41 --> Session: Class initialized using 'files' driver.
+INFO - 25-01-2019 15:07:41 --> Controller Class Initialized
+INFO - 25-01-2019 15:07:41 --> Model Class Initialized
+INFO - 25-01-2019 15:07:41 --> Model Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 25-01-2019 15:07:41 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 25-01-2019 15:07:41 --> Final output sent to browser
+DEBUG - 25-01-2019 15:07:41 --> Total execution time: 0.0361
+DEBUG - 25-01-2019 15:07:41 --> Session class already loaded. Second attempt ignored.
+INFO - 25-01-2019 15:07:41 --> Model Class Initialized
+INFO - 25-01-2019 15:07:41 --> Model Class Initialized
+INFO - 25-01-2019 15:07:41 --> Helper loaded: address_helper
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Database Driver Class Initialized
+INFO - 25-01-2019 15:07:41 --> Model Class Initialized
+ERROR - 25-01-2019 15:07:41 --> Severity: Notice --> Undefined variable: goto /var/www/html/eodbci/departments/society/forms/society_form2.php 406

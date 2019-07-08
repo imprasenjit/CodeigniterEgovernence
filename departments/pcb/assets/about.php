@@ -1,0 +1,4 @@
+<div role="tabpanel" class="tab-pane active box box-primary" id="about">
+	<h2>About Us</h2>								
+	<p>State Pollution Control Board, Assam is an autonomous statutory organization constituted on 2nd June, 1975 under the provision of section 4 of the Water (Prevention & Control of Pollution) Act 1974 with a view to protect the environment, prevent and control the pollution  of water and air in the state of Assam, thereby occupying a prominent niche in progressive and industrial development of the country.</p><p>The State Government nominates the members of Pollution Control Board, Assam. The board originally constituted as per Section 4 of the Water (prevention & Control of Pollution) Act, 1974 on 2nd June, 1975, was reconstituted during 1981, 1982, 1984, 1985, 1986, 1991, 1993, 1994, 1996, 1997, 2000, 2005 and 2008.</p>
+</div>

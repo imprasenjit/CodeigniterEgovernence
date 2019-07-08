@@ -1,0 +1,44 @@
+INFO - 25-03-2019 11:59:08 --> Config Class Initialized
+INFO - 25-03-2019 11:59:08 --> Hooks Class Initialized
+DEBUG - 25-03-2019 11:59:08 --> UTF-8 Support Enabled
+INFO - 25-03-2019 11:59:08 --> Utf8 Class Initialized
+INFO - 25-03-2019 11:59:08 --> URI Class Initialized
+INFO - 25-03-2019 11:59:08 --> Router Class Initialized
+INFO - 25-03-2019 11:59:08 --> Output Class Initialized
+INFO - 25-03-2019 11:59:08 --> Security Class Initialized
+DEBUG - 25-03-2019 11:59:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 25-03-2019 11:59:08 --> Input Class Initialized
+INFO - 25-03-2019 11:59:08 --> Language Class Initialized
+INFO - 25-03-2019 11:59:08 --> Loader Class Initialized
+INFO - 25-03-2019 11:59:08 --> Helper loaded: url_helper
+INFO - 25-03-2019 11:59:08 --> Email Class Initialized
+INFO - 25-03-2019 11:59:08 --> Helper loaded: form_helper
+INFO - 25-03-2019 11:59:08 --> Form Validation Class Initialized
+DEBUG - 25-03-2019 11:59:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 25-03-2019 11:59:08 --> Session: Class initialized using 'files' driver.
+INFO - 25-03-2019 11:59:08 --> Controller Class Initialized
+INFO - 25-03-2019 11:59:08 --> Config Class Initialized
+INFO - 25-03-2019 11:59:08 --> Hooks Class Initialized
+DEBUG - 25-03-2019 11:59:08 --> UTF-8 Support Enabled
+INFO - 25-03-2019 11:59:08 --> Utf8 Class Initialized
+INFO - 25-03-2019 11:59:08 --> URI Class Initialized
+INFO - 25-03-2019 11:59:08 --> Router Class Initialized
+INFO - 25-03-2019 11:59:08 --> Output Class Initialized
+INFO - 25-03-2019 11:59:08 --> Security Class Initialized
+DEBUG - 25-03-2019 11:59:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 25-03-2019 11:59:08 --> Input Class Initialized
+INFO - 25-03-2019 11:59:08 --> Language Class Initialized
+INFO - 25-03-2019 11:59:08 --> Loader Class Initialized
+INFO - 25-03-2019 11:59:08 --> Helper loaded: url_helper
+INFO - 25-03-2019 11:59:08 --> Email Class Initialized
+INFO - 25-03-2019 11:59:08 --> Helper loaded: form_helper
+INFO - 25-03-2019 11:59:08 --> Form Validation Class Initialized
+DEBUG - 25-03-2019 11:59:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 25-03-2019 11:59:08 --> Session: Class initialized using 'files' driver.
+INFO - 25-03-2019 11:59:08 --> Controller Class Initialized
+INFO - 25-03-2019 11:59:08 --> Model Class Initialized
+INFO - 25-03-2019 11:59:08 --> File loaded: /var/www/html/eodbci/views/staffs/requires/login_header.php
+INFO - 25-03-2019 11:59:09 --> Database Driver Class Initialized
+ERROR - 25-03-2019 11:59:09 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dicc'@'localhost' (using password: YES) /var/www/html/eodbci/apps/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 25-03-2019 11:59:09 --> Unable to connect to the database
+INFO - 25-03-2019 11:59:09 --> Language file loaded: language/english/db_lang.php

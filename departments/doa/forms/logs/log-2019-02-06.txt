@@ -1,0 +1,28 @@
+INFO - 06-02-2019 17:31:09 --> Config Class Initialized
+INFO - 06-02-2019 17:31:09 --> Hooks Class Initialized
+DEBUG - 06-02-2019 17:31:09 --> UTF-8 Support Enabled
+INFO - 06-02-2019 17:31:09 --> Utf8 Class Initialized
+INFO - 06-02-2019 17:31:09 --> URI Class Initialized
+DEBUG - 06-02-2019 17:31:09 --> No URI present. Default controller set.
+INFO - 06-02-2019 17:31:09 --> Router Class Initialized
+INFO - 06-02-2019 17:31:09 --> Output Class Initialized
+INFO - 06-02-2019 17:31:09 --> Security Class Initialized
+DEBUG - 06-02-2019 17:31:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 06-02-2019 17:31:09 --> Input Class Initialized
+INFO - 06-02-2019 17:31:09 --> Language Class Initialized
+INFO - 06-02-2019 17:31:09 --> Loader Class Initialized
+INFO - 06-02-2019 17:31:09 --> Helper loaded: url_helper
+INFO - 06-02-2019 17:31:09 --> Email Class Initialized
+INFO - 06-02-2019 17:31:09 --> Helper loaded: form_helper
+INFO - 06-02-2019 17:31:09 --> Form Validation Class Initialized
+DEBUG - 06-02-2019 17:31:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 06-02-2019 17:31:09 --> Session: Class initialized using 'files' driver.
+INFO - 06-02-2019 17:31:09 --> Controller Class Initialized
+INFO - 06-02-2019 17:31:09 --> Model Class Initialized
+INFO - 06-02-2019 17:31:09 --> Model Class Initialized
+INFO - 06-02-2019 17:31:09 --> Database Driver Class Initialized
+ERROR - 06-02-2019 17:31:09 --> Query error: Table 'officemanagement.Department' doesn't exist - Invalid query: SELECT *
+FROM `Department`
+WHERE `status` = '1'
+ORDER BY `id` ASC
+INFO - 06-02-2019 17:31:09 --> Language file loaded: language/english/db_lang.php

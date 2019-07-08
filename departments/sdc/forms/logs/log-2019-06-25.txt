@@ -1,0 +1,26 @@
+INFO - 25-06-2019 10:58:09 --> Config Class Initialized
+INFO - 25-06-2019 10:58:09 --> Hooks Class Initialized
+DEBUG - 25-06-2019 10:58:09 --> UTF-8 Support Enabled
+INFO - 25-06-2019 10:58:09 --> Utf8 Class Initialized
+INFO - 25-06-2019 10:58:09 --> URI Class Initialized
+DEBUG - 25-06-2019 10:58:09 --> No URI present. Default controller set.
+INFO - 25-06-2019 10:58:09 --> Router Class Initialized
+INFO - 25-06-2019 10:58:09 --> Output Class Initialized
+INFO - 25-06-2019 10:58:09 --> Security Class Initialized
+DEBUG - 25-06-2019 10:58:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 25-06-2019 10:58:09 --> Input Class Initialized
+INFO - 25-06-2019 10:58:09 --> Language Class Initialized
+INFO - 25-06-2019 10:58:09 --> Loader Class Initialized
+INFO - 25-06-2019 10:58:09 --> Helper loaded: url_helper
+INFO - 25-06-2019 10:58:09 --> Email Class Initialized
+INFO - 25-06-2019 10:58:09 --> Helper loaded: form_helper
+INFO - 25-06-2019 10:58:09 --> Form Validation Class Initialized
+DEBUG - 25-06-2019 10:58:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 25-06-2019 10:58:09 --> Session: Class initialized using 'files' driver.
+INFO - 25-06-2019 10:58:09 --> Controller Class Initialized
+INFO - 25-06-2019 10:58:09 --> Model Class Initialized
+INFO - 25-06-2019 10:58:09 --> Model Class Initialized
+INFO - 25-06-2019 10:58:09 --> Database Driver Class Initialized
+ERROR - 25-06-2019 10:58:09 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dicc'@'localhost' (using password: YES) /var/www/html/eodbci/apps/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 25-06-2019 10:58:09 --> Unable to connect to the database
+INFO - 25-06-2019 10:58:09 --> Language file loaded: language/english/db_lang.php

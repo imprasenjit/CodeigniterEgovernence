@@ -1,0 +1,122 @@
+.homeTag {
+    padding: 7px 0 0 12px;
+}
+.main-header .logo {
+    font-size: 12px !important;
+}
+.navbar-nav > .user-menu > .dropdown-menu > .user-body {
+    padding: 12px 16px;
+}
+.nav-pills > li > a{
+    background-color: #337ab7;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    padding:8px;
+}
+.nav-pills > li > a:hover{
+    background-color:#275d8b;
+    color: #ffffff;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus{
+    background-color: #ffffff;
+    border-bottom: 2px solid #337AB7;
+    border-top: 2px solid #ffffff;
+    color: #000000;
+}
+.content-wrapper, .right-side, .main-footer {
+    -webkit-transition: -webkit-transform .3s ease-in-out,margin .3s ease-in-out;
+    -moz-transition: -moz-transform .3s ease-in-out,margin .3s ease-in-out;
+    -o-transition: -o-transform .3s ease-in-out,margin .3s ease-in-out;
+    transition: transform .3s ease-in-out,margin .3s ease-in-out;
+    margin-left: 0px;
+    z-index: 820;
+}
+
+.dropdown-menu.columns-3 {
+    height: 580px;
+    min-width: 850px;
+    overflow: scroll;
+}
+.dropdown-menu li a {
+    padding: 5px 15px;
+    font-weight: 300;
+}
+.multi-column-dropdown {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.multi-column-dropdown li a {
+    font-weight: bold;
+    display: block;
+    clear: both;
+    line-height: 1.0;
+    white-space: normal;
+}
+.multi-column-dropdown li a:hover {
+    text-decoration: none;
+    color: #262626;
+    background-color: #999;
+}
+
+@media (max-width: 767px) {
+    .dropdown-menu.columns-3 {
+        min-width: 240px !important;
+        /*overflow-x: hidden;*/
+        width: 150px;
+        height: 250px;
+        overflow: scroll;
+    }
+    .multi-column-dropdown li a:hover {
+        text-decoration: none;
+        color: #262626;
+        background-color: #999;
+    }
+    .dropdown-menu li a {
+        padding: 5px 15px;
+        font-weight: 400;
+        color:#000 !important;
+    }
+}
+.eodb-menu-icons
+{
+    min-height:45px; 
+    float:left;
+    width:20px;
+
+}
+.department-links-menu
+{
+    min-height:45px;    
+}
+.menu-ul-li-items{
+    clear:both;
+}
+.dropdown-menu li a{
+    padding: 0px;
+    font-weight: 0;
+}
+.navbar-nav > .departments-menu > .dropdown-menu {
+    padding: 25px;
+}
+.navbar-nav > .messages-menu > .dropdown-menu {
+    padding: 5px;
+}
+.user-area-menu{
+    width:800px;
+    height:500px;
+    overflow: auto;     
+}
+.department-links-menu{
+    font-size:14px;
+    font-weight:bold;
+    color:#000;
+}
+.menu-ul-li-items {
+    clear: both;
+    list-style: none;
+}
+font.mandatory_field {
+    color: #F00;
+}

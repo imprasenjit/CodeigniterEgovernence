@@ -1,0 +1,1394 @@
+INFO - 17-11-2018 10:26:58 --> Config Class Initialized
+INFO - 17-11-2018 10:26:58 --> Hooks Class Initialized
+DEBUG - 17-11-2018 10:26:58 --> UTF-8 Support Enabled
+INFO - 17-11-2018 10:26:58 --> Utf8 Class Initialized
+INFO - 17-11-2018 10:26:58 --> URI Class Initialized
+DEBUG - 17-11-2018 10:26:58 --> No URI present. Default controller set.
+INFO - 17-11-2018 10:26:58 --> Router Class Initialized
+INFO - 17-11-2018 10:26:58 --> Output Class Initialized
+INFO - 17-11-2018 10:26:58 --> Security Class Initialized
+DEBUG - 17-11-2018 10:26:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 17-11-2018 10:26:58 --> Input Class Initialized
+INFO - 17-11-2018 10:26:58 --> Language Class Initialized
+INFO - 17-11-2018 10:26:58 --> Loader Class Initialized
+INFO - 17-11-2018 10:26:58 --> Helper loaded: url_helper
+INFO - 17-11-2018 10:26:58 --> Email Class Initialized
+INFO - 17-11-2018 10:26:58 --> Helper loaded: form_helper
+INFO - 17-11-2018 10:26:58 --> Form Validation Class Initialized
+DEBUG - 17-11-2018 10:26:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 17-11-2018 10:26:58 --> Session: Class initialized using 'files' driver.
+INFO - 17-11-2018 10:26:58 --> Controller Class Initialized
+INFO - 17-11-2018 10:26:58 --> Model Class Initialized
+INFO - 17-11-2018 10:26:58 --> Model Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 17-11-2018 10:26:58 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 17-11-2018 10:26:58 --> Final output sent to browser
+DEBUG - 17-11-2018 10:26:58 --> Total execution time: 0.0456
+DEBUG - 17-11-2018 10:26:58 --> Session class already loaded. Second attempt ignored.
+INFO - 17-11-2018 10:26:58 --> Model Class Initialized
+INFO - 17-11-2018 10:26:58 --> Model Class Initialized
+INFO - 17-11-2018 10:26:58 --> Helper loaded: get_uain_details_helper
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:26:58 --> Model Class Initialized
+INFO - 17-11-2018 10:26:58 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Config Class Initialized
+INFO - 17-11-2018 10:27:00 --> Hooks Class Initialized
+DEBUG - 17-11-2018 10:27:00 --> UTF-8 Support Enabled
+INFO - 17-11-2018 10:27:00 --> Utf8 Class Initialized
+INFO - 17-11-2018 10:27:00 --> URI Class Initialized
+DEBUG - 17-11-2018 10:27:00 --> No URI present. Default controller set.
+INFO - 17-11-2018 10:27:00 --> Router Class Initialized
+INFO - 17-11-2018 10:27:00 --> Output Class Initialized
+INFO - 17-11-2018 10:27:00 --> Security Class Initialized
+DEBUG - 17-11-2018 10:27:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 17-11-2018 10:27:00 --> Input Class Initialized
+INFO - 17-11-2018 10:27:00 --> Language Class Initialized
+INFO - 17-11-2018 10:27:00 --> Loader Class Initialized
+INFO - 17-11-2018 10:27:00 --> Helper loaded: url_helper
+INFO - 17-11-2018 10:27:00 --> Email Class Initialized
+INFO - 17-11-2018 10:27:00 --> Helper loaded: form_helper
+INFO - 17-11-2018 10:27:00 --> Form Validation Class Initialized
+DEBUG - 17-11-2018 10:27:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 17-11-2018 10:27:00 --> Session: Class initialized using 'files' driver.
+INFO - 17-11-2018 10:27:00 --> Controller Class Initialized
+INFO - 17-11-2018 10:27:00 --> Model Class Initialized
+INFO - 17-11-2018 10:27:00 --> Model Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 10:27:00 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 17-11-2018 10:27:00 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 17-11-2018 10:27:00 --> Final output sent to browser
+DEBUG - 17-11-2018 10:27:00 --> Total execution time: 0.0344
+DEBUG - 17-11-2018 10:27:00 --> Session class already loaded. Second attempt ignored.
+INFO - 17-11-2018 10:27:00 --> Model Class Initialized
+INFO - 17-11-2018 10:27:00 --> Model Class Initialized
+INFO - 17-11-2018 10:27:00 --> Helper loaded: get_uain_details_helper
+INFO - 17-11-2018 10:27:00 --> Model Class Initialized
+INFO - 17-11-2018 10:27:00 --> Database Driver Class Initialized
+ERROR - 17-11-2018 10:27:01 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16507
+ERROR - 17-11-2018 10:27:01 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Notice --> Undefined index: cols /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16944
+ERROR - 17-11-2018 10:27:01 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16494
+ERROR - 17-11-2018 10:27:01 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 10:27:01 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16507
+INFO - 17-11-2018 11:17:13 --> Config Class Initialized
+INFO - 17-11-2018 11:17:13 --> Hooks Class Initialized
+DEBUG - 17-11-2018 11:17:13 --> UTF-8 Support Enabled
+INFO - 17-11-2018 11:17:13 --> Utf8 Class Initialized
+INFO - 17-11-2018 11:17:13 --> URI Class Initialized
+DEBUG - 17-11-2018 11:17:13 --> No URI present. Default controller set.
+INFO - 17-11-2018 11:17:13 --> Router Class Initialized
+INFO - 17-11-2018 11:17:13 --> Output Class Initialized
+INFO - 17-11-2018 11:17:13 --> Security Class Initialized
+DEBUG - 17-11-2018 11:17:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 17-11-2018 11:17:13 --> Input Class Initialized
+INFO - 17-11-2018 11:17:13 --> Language Class Initialized
+INFO - 17-11-2018 11:17:13 --> Loader Class Initialized
+INFO - 17-11-2018 11:17:13 --> Helper loaded: url_helper
+INFO - 17-11-2018 11:17:13 --> Email Class Initialized
+INFO - 17-11-2018 11:17:13 --> Helper loaded: form_helper
+INFO - 17-11-2018 11:17:13 --> Form Validation Class Initialized
+DEBUG - 17-11-2018 11:17:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 17-11-2018 11:17:13 --> Session: Class initialized using 'files' driver.
+INFO - 17-11-2018 11:17:13 --> Controller Class Initialized
+INFO - 17-11-2018 11:17:13 --> Model Class Initialized
+INFO - 17-11-2018 11:17:13 --> Model Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:13 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 17-11-2018 11:17:13 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 17-11-2018 11:17:13 --> Final output sent to browser
+DEBUG - 17-11-2018 11:17:13 --> Total execution time: 0.0341
+DEBUG - 17-11-2018 11:17:13 --> Session class already loaded. Second attempt ignored.
+INFO - 17-11-2018 11:17:13 --> Model Class Initialized
+INFO - 17-11-2018 11:17:13 --> Model Class Initialized
+INFO - 17-11-2018 11:17:13 --> Helper loaded: get_uain_details_helper
+INFO - 17-11-2018 11:17:13 --> Model Class Initialized
+INFO - 17-11-2018 11:17:13 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Config Class Initialized
+INFO - 17-11-2018 11:17:18 --> Hooks Class Initialized
+DEBUG - 17-11-2018 11:17:18 --> UTF-8 Support Enabled
+INFO - 17-11-2018 11:17:18 --> Utf8 Class Initialized
+INFO - 17-11-2018 11:17:18 --> URI Class Initialized
+DEBUG - 17-11-2018 11:17:18 --> No URI present. Default controller set.
+INFO - 17-11-2018 11:17:18 --> Router Class Initialized
+INFO - 17-11-2018 11:17:18 --> Output Class Initialized
+INFO - 17-11-2018 11:17:18 --> Security Class Initialized
+DEBUG - 17-11-2018 11:17:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 17-11-2018 11:17:18 --> Input Class Initialized
+INFO - 17-11-2018 11:17:18 --> Language Class Initialized
+INFO - 17-11-2018 11:17:18 --> Loader Class Initialized
+INFO - 17-11-2018 11:17:18 --> Helper loaded: url_helper
+INFO - 17-11-2018 11:17:18 --> Email Class Initialized
+INFO - 17-11-2018 11:17:18 --> Helper loaded: form_helper
+INFO - 17-11-2018 11:17:18 --> Form Validation Class Initialized
+DEBUG - 17-11-2018 11:17:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 17-11-2018 11:17:18 --> Session: Class initialized using 'files' driver.
+INFO - 17-11-2018 11:17:18 --> Controller Class Initialized
+INFO - 17-11-2018 11:17:18 --> Model Class Initialized
+INFO - 17-11-2018 11:17:18 --> Model Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:17:18 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 17-11-2018 11:17:18 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 17-11-2018 11:17:18 --> Final output sent to browser
+DEBUG - 17-11-2018 11:17:18 --> Total execution time: 0.0373
+DEBUG - 17-11-2018 11:17:18 --> Session class already loaded. Second attempt ignored.
+INFO - 17-11-2018 11:17:18 --> Model Class Initialized
+INFO - 17-11-2018 11:17:18 --> Model Class Initialized
+INFO - 17-11-2018 11:17:18 --> Helper loaded: get_uain_details_helper
+INFO - 17-11-2018 11:17:18 --> Model Class Initialized
+INFO - 17-11-2018 11:17:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Config Class Initialized
+INFO - 17-11-2018 11:35:00 --> Hooks Class Initialized
+DEBUG - 17-11-2018 11:35:00 --> UTF-8 Support Enabled
+INFO - 17-11-2018 11:35:00 --> Utf8 Class Initialized
+INFO - 17-11-2018 11:35:00 --> URI Class Initialized
+DEBUG - 17-11-2018 11:35:00 --> No URI present. Default controller set.
+INFO - 17-11-2018 11:35:00 --> Router Class Initialized
+INFO - 17-11-2018 11:35:00 --> Output Class Initialized
+INFO - 17-11-2018 11:35:00 --> Security Class Initialized
+DEBUG - 17-11-2018 11:35:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 17-11-2018 11:35:00 --> Input Class Initialized
+INFO - 17-11-2018 11:35:00 --> Language Class Initialized
+INFO - 17-11-2018 11:35:00 --> Loader Class Initialized
+INFO - 17-11-2018 11:35:00 --> Helper loaded: url_helper
+INFO - 17-11-2018 11:35:00 --> Email Class Initialized
+INFO - 17-11-2018 11:35:00 --> Helper loaded: form_helper
+INFO - 17-11-2018 11:35:00 --> Form Validation Class Initialized
+DEBUG - 17-11-2018 11:35:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 17-11-2018 11:35:00 --> Session: Class initialized using 'files' driver.
+INFO - 17-11-2018 11:35:00 --> Controller Class Initialized
+INFO - 17-11-2018 11:35:00 --> Model Class Initialized
+INFO - 17-11-2018 11:35:00 --> Model Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:35:00 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 17-11-2018 11:35:00 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 17-11-2018 11:35:00 --> Final output sent to browser
+DEBUG - 17-11-2018 11:35:00 --> Total execution time: 0.0321
+DEBUG - 17-11-2018 11:35:00 --> Session class already loaded. Second attempt ignored.
+INFO - 17-11-2018 11:35:00 --> Model Class Initialized
+INFO - 17-11-2018 11:35:00 --> Model Class Initialized
+INFO - 17-11-2018 11:35:00 --> Helper loaded: get_uain_details_helper
+INFO - 17-11-2018 11:35:00 --> Model Class Initialized
+INFO - 17-11-2018 11:35:00 --> Database Driver Class Initialized
+ERROR - 17-11-2018 11:35:00 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16507
+ERROR - 17-11-2018 11:35:00 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:35:00 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+INFO - 17-11-2018 11:59:17 --> Config Class Initialized
+INFO - 17-11-2018 11:59:17 --> Hooks Class Initialized
+DEBUG - 17-11-2018 11:59:17 --> UTF-8 Support Enabled
+INFO - 17-11-2018 11:59:17 --> Utf8 Class Initialized
+INFO - 17-11-2018 11:59:17 --> URI Class Initialized
+DEBUG - 17-11-2018 11:59:17 --> No URI present. Default controller set.
+INFO - 17-11-2018 11:59:17 --> Router Class Initialized
+INFO - 17-11-2018 11:59:17 --> Output Class Initialized
+INFO - 17-11-2018 11:59:17 --> Security Class Initialized
+DEBUG - 17-11-2018 11:59:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 17-11-2018 11:59:17 --> Input Class Initialized
+INFO - 17-11-2018 11:59:17 --> Language Class Initialized
+INFO - 17-11-2018 11:59:17 --> Loader Class Initialized
+INFO - 17-11-2018 11:59:17 --> Helper loaded: url_helper
+INFO - 17-11-2018 11:59:17 --> Email Class Initialized
+INFO - 17-11-2018 11:59:17 --> Helper loaded: form_helper
+INFO - 17-11-2018 11:59:17 --> Form Validation Class Initialized
+DEBUG - 17-11-2018 11:59:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 17-11-2018 11:59:17 --> Session: Class initialized using 'files' driver.
+INFO - 17-11-2018 11:59:17 --> Controller Class Initialized
+INFO - 17-11-2018 11:59:17 --> Model Class Initialized
+INFO - 17-11-2018 11:59:17 --> Model Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:17 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 17-11-2018 11:59:17 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 17-11-2018 11:59:17 --> Final output sent to browser
+DEBUG - 17-11-2018 11:59:17 --> Total execution time: 0.0336
+DEBUG - 17-11-2018 11:59:17 --> Session class already loaded. Second attempt ignored.
+INFO - 17-11-2018 11:59:17 --> Model Class Initialized
+INFO - 17-11-2018 11:59:17 --> Model Class Initialized
+INFO - 17-11-2018 11:59:17 --> Helper loaded: get_uain_details_helper
+INFO - 17-11-2018 11:59:17 --> Model Class Initialized
+INFO - 17-11-2018 11:59:17 --> Database Driver Class Initialized
+ERROR - 17-11-2018 11:59:17 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Notice --> Undefined index: cols /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16944
+ERROR - 17-11-2018 11:59:17 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16494
+ERROR - 17-11-2018 11:59:17 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:17 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16507
+ERROR - 17-11-2018 11:59:21 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 11:59:21 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+INFO - 17-11-2018 11:59:33 --> Config Class Initialized
+INFO - 17-11-2018 11:59:33 --> Hooks Class Initialized
+DEBUG - 17-11-2018 11:59:33 --> UTF-8 Support Enabled
+INFO - 17-11-2018 11:59:33 --> Utf8 Class Initialized
+INFO - 17-11-2018 11:59:33 --> URI Class Initialized
+DEBUG - 17-11-2018 11:59:33 --> No URI present. Default controller set.
+INFO - 17-11-2018 11:59:33 --> Router Class Initialized
+INFO - 17-11-2018 11:59:33 --> Output Class Initialized
+INFO - 17-11-2018 11:59:33 --> Security Class Initialized
+DEBUG - 17-11-2018 11:59:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 17-11-2018 11:59:33 --> Input Class Initialized
+INFO - 17-11-2018 11:59:33 --> Language Class Initialized
+INFO - 17-11-2018 11:59:33 --> Loader Class Initialized
+INFO - 17-11-2018 11:59:33 --> Helper loaded: url_helper
+INFO - 17-11-2018 11:59:33 --> Email Class Initialized
+INFO - 17-11-2018 11:59:33 --> Helper loaded: form_helper
+INFO - 17-11-2018 11:59:33 --> Form Validation Class Initialized
+DEBUG - 17-11-2018 11:59:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 17-11-2018 11:59:33 --> Session: Class initialized using 'files' driver.
+INFO - 17-11-2018 11:59:33 --> Controller Class Initialized
+INFO - 17-11-2018 11:59:33 --> Model Class Initialized
+INFO - 17-11-2018 11:59:33 --> Model Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+INFO - 17-11-2018 11:59:33 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 17-11-2018 11:59:33 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 17-11-2018 11:59:33 --> Final output sent to browser
+DEBUG - 17-11-2018 11:59:33 --> Total execution time: 0.0360
+DEBUG - 17-11-2018 11:59:33 --> Session class already loaded. Second attempt ignored.
+INFO - 17-11-2018 11:59:33 --> Model Class Initialized
+INFO - 17-11-2018 11:59:33 --> Model Class Initialized
+INFO - 17-11-2018 11:59:33 --> Helper loaded: get_uain_details_helper
+INFO - 17-11-2018 11:59:33 --> Model Class Initialized
+INFO - 17-11-2018 11:59:33 --> Database Driver Class Initialized
+ERROR - 17-11-2018 11:59:33 --> Severity: Notice --> Undefined index: cols /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16944
+ERROR - 17-11-2018 11:59:33 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16494
+ERROR - 17-11-2018 11:59:33 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 11:59:33 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16507
+INFO - 17-11-2018 12:06:10 --> Config Class Initialized
+INFO - 17-11-2018 12:06:10 --> Hooks Class Initialized
+DEBUG - 17-11-2018 12:06:10 --> UTF-8 Support Enabled
+INFO - 17-11-2018 12:06:10 --> Utf8 Class Initialized
+INFO - 17-11-2018 12:06:10 --> URI Class Initialized
+DEBUG - 17-11-2018 12:06:10 --> No URI present. Default controller set.
+INFO - 17-11-2018 12:06:10 --> Router Class Initialized
+INFO - 17-11-2018 12:06:10 --> Output Class Initialized
+INFO - 17-11-2018 12:06:10 --> Security Class Initialized
+DEBUG - 17-11-2018 12:06:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 17-11-2018 12:06:10 --> Input Class Initialized
+INFO - 17-11-2018 12:06:10 --> Language Class Initialized
+INFO - 17-11-2018 12:06:10 --> Loader Class Initialized
+INFO - 17-11-2018 12:06:10 --> Helper loaded: url_helper
+INFO - 17-11-2018 12:06:10 --> Email Class Initialized
+INFO - 17-11-2018 12:06:10 --> Helper loaded: form_helper
+INFO - 17-11-2018 12:06:10 --> Form Validation Class Initialized
+DEBUG - 17-11-2018 12:06:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 17-11-2018 12:06:10 --> Session: Class initialized using 'files' driver.
+INFO - 17-11-2018 12:06:10 --> Controller Class Initialized
+INFO - 17-11-2018 12:06:10 --> Model Class Initialized
+INFO - 17-11-2018 12:06:10 --> Model Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:06:10 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 17-11-2018 12:06:10 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 17-11-2018 12:06:10 --> Final output sent to browser
+DEBUG - 17-11-2018 12:06:10 --> Total execution time: 0.0343
+DEBUG - 17-11-2018 12:06:10 --> Session class already loaded. Second attempt ignored.
+INFO - 17-11-2018 12:06:10 --> Model Class Initialized
+INFO - 17-11-2018 12:06:10 --> Model Class Initialized
+INFO - 17-11-2018 12:06:10 --> Helper loaded: get_uain_details_helper
+INFO - 17-11-2018 12:06:10 --> Model Class Initialized
+INFO - 17-11-2018 12:06:10 --> Database Driver Class Initialized
+ERROR - 17-11-2018 12:06:10 --> Severity: Notice --> Undefined index: cols /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16944
+ERROR - 17-11-2018 12:06:10 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16494
+ERROR - 17-11-2018 12:06:10 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:06:10 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16507
+INFO - 17-11-2018 12:17:09 --> Config Class Initialized
+INFO - 17-11-2018 12:17:09 --> Hooks Class Initialized
+DEBUG - 17-11-2018 12:17:09 --> UTF-8 Support Enabled
+INFO - 17-11-2018 12:17:09 --> Utf8 Class Initialized
+INFO - 17-11-2018 12:17:09 --> URI Class Initialized
+DEBUG - 17-11-2018 12:17:09 --> No URI present. Default controller set.
+INFO - 17-11-2018 12:17:09 --> Router Class Initialized
+INFO - 17-11-2018 12:17:09 --> Output Class Initialized
+INFO - 17-11-2018 12:17:09 --> Security Class Initialized
+DEBUG - 17-11-2018 12:17:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 17-11-2018 12:17:09 --> Input Class Initialized
+INFO - 17-11-2018 12:17:09 --> Language Class Initialized
+INFO - 17-11-2018 12:17:09 --> Loader Class Initialized
+INFO - 17-11-2018 12:17:09 --> Helper loaded: url_helper
+INFO - 17-11-2018 12:17:09 --> Email Class Initialized
+INFO - 17-11-2018 12:17:09 --> Helper loaded: form_helper
+INFO - 17-11-2018 12:17:09 --> Form Validation Class Initialized
+DEBUG - 17-11-2018 12:17:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 17-11-2018 12:17:09 --> Session: Class initialized using 'files' driver.
+INFO - 17-11-2018 12:17:09 --> Controller Class Initialized
+INFO - 17-11-2018 12:17:09 --> Model Class Initialized
+INFO - 17-11-2018 12:17:09 --> Model Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:17:09 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 17-11-2018 12:17:09 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 17-11-2018 12:17:09 --> Final output sent to browser
+DEBUG - 17-11-2018 12:17:09 --> Total execution time: 0.0384
+DEBUG - 17-11-2018 12:17:09 --> Session class already loaded. Second attempt ignored.
+INFO - 17-11-2018 12:17:09 --> Model Class Initialized
+INFO - 17-11-2018 12:17:09 --> Model Class Initialized
+INFO - 17-11-2018 12:17:09 --> Helper loaded: get_uain_details_helper
+INFO - 17-11-2018 12:17:09 --> Model Class Initialized
+INFO - 17-11-2018 12:17:09 --> Database Driver Class Initialized
+ERROR - 17-11-2018 12:17:09 --> Severity: Notice --> Undefined index: cols /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16944
+ERROR - 17-11-2018 12:17:09 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Notice --> Undefined index: cols /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16944
+ERROR - 17-11-2018 12:17:09 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16494
+ERROR - 17-11-2018 12:17:09 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:09 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16507
+ERROR - 17-11-2018 12:17:13 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18204
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 12:17:13 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:13 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:13 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:13 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18130
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18197
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18223
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18278
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18132
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: table_columns_width /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18185
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18197
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18223
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18278
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18130
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18197
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18223
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18278
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18132
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18197
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18223
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18278
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18130
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18197
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18223
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18278
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18132
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18197
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18223
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18278
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18130
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18197
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18223
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18278
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18132
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18197
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacing /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18223
+ERROR - 17-11-2018 12:17:13 --> Severity: Notice --> Undefined variable: cellspacingx /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 18278
+ERROR - 17-11-2018 12:17:13 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /var/www/html/eodbci/apps/sys/core/Exceptions.php:271) /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 7624
+INFO - 17-11-2018 12:25:50 --> Config Class Initialized
+INFO - 17-11-2018 12:25:50 --> Hooks Class Initialized
+DEBUG - 17-11-2018 12:25:50 --> UTF-8 Support Enabled
+INFO - 17-11-2018 12:25:50 --> Utf8 Class Initialized
+INFO - 17-11-2018 12:25:50 --> URI Class Initialized
+DEBUG - 17-11-2018 12:25:50 --> No URI present. Default controller set.
+INFO - 17-11-2018 12:25:50 --> Router Class Initialized
+INFO - 17-11-2018 12:25:50 --> Output Class Initialized
+INFO - 17-11-2018 12:25:50 --> Security Class Initialized
+DEBUG - 17-11-2018 12:25:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 17-11-2018 12:25:50 --> Input Class Initialized
+INFO - 17-11-2018 12:25:50 --> Language Class Initialized
+INFO - 17-11-2018 12:25:50 --> Loader Class Initialized
+INFO - 17-11-2018 12:25:50 --> Helper loaded: url_helper
+INFO - 17-11-2018 12:25:50 --> Email Class Initialized
+INFO - 17-11-2018 12:25:50 --> Helper loaded: form_helper
+INFO - 17-11-2018 12:25:50 --> Form Validation Class Initialized
+DEBUG - 17-11-2018 12:25:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 17-11-2018 12:25:50 --> Session: Class initialized using 'files' driver.
+INFO - 17-11-2018 12:25:50 --> Controller Class Initialized
+INFO - 17-11-2018 12:25:50 --> Model Class Initialized
+INFO - 17-11-2018 12:25:50 --> Model Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:25:50 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 17-11-2018 12:25:50 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 17-11-2018 12:25:50 --> Final output sent to browser
+DEBUG - 17-11-2018 12:25:50 --> Total execution time: 0.0382
+DEBUG - 17-11-2018 12:25:50 --> Session class already loaded. Second attempt ignored.
+INFO - 17-11-2018 12:25:50 --> Model Class Initialized
+INFO - 17-11-2018 12:25:50 --> Model Class Initialized
+INFO - 17-11-2018 12:25:50 --> Helper loaded: get_uain_details_helper
+INFO - 17-11-2018 12:25:50 --> Model Class Initialized
+INFO - 17-11-2018 12:25:50 --> Database Driver Class Initialized
+ERROR - 17-11-2018 12:25:50 --> Severity: Notice --> Undefined index: cols /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16944
+ERROR - 17-11-2018 12:25:50 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16494
+ERROR - 17-11-2018 12:25:50 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:25:50 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16507
+INFO - 17-11-2018 12:26:17 --> Config Class Initialized
+INFO - 17-11-2018 12:26:17 --> Hooks Class Initialized
+DEBUG - 17-11-2018 12:26:17 --> UTF-8 Support Enabled
+INFO - 17-11-2018 12:26:17 --> Utf8 Class Initialized
+INFO - 17-11-2018 12:26:17 --> URI Class Initialized
+DEBUG - 17-11-2018 12:26:17 --> No URI present. Default controller set.
+INFO - 17-11-2018 12:26:17 --> Router Class Initialized
+INFO - 17-11-2018 12:26:17 --> Output Class Initialized
+INFO - 17-11-2018 12:26:17 --> Security Class Initialized
+DEBUG - 17-11-2018 12:26:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 17-11-2018 12:26:17 --> Input Class Initialized
+INFO - 17-11-2018 12:26:17 --> Language Class Initialized
+INFO - 17-11-2018 12:26:17 --> Loader Class Initialized
+INFO - 17-11-2018 12:26:17 --> Helper loaded: url_helper
+INFO - 17-11-2018 12:26:17 --> Email Class Initialized
+INFO - 17-11-2018 12:26:17 --> Helper loaded: form_helper
+INFO - 17-11-2018 12:26:17 --> Form Validation Class Initialized
+DEBUG - 17-11-2018 12:26:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 17-11-2018 12:26:17 --> Session: Class initialized using 'files' driver.
+INFO - 17-11-2018 12:26:17 --> Controller Class Initialized
+INFO - 17-11-2018 12:26:17 --> Model Class Initialized
+INFO - 17-11-2018 12:26:17 --> Model Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:17 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:18 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:26:18 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 17-11-2018 12:26:18 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 17-11-2018 12:26:18 --> Final output sent to browser
+DEBUG - 17-11-2018 12:26:18 --> Total execution time: 0.0373
+DEBUG - 17-11-2018 12:26:18 --> Session class already loaded. Second attempt ignored.
+INFO - 17-11-2018 12:26:18 --> Model Class Initialized
+INFO - 17-11-2018 12:26:18 --> Model Class Initialized
+INFO - 17-11-2018 12:26:18 --> Helper loaded: get_uain_details_helper
+INFO - 17-11-2018 12:26:18 --> Model Class Initialized
+INFO - 17-11-2018 12:26:18 --> Database Driver Class Initialized
+ERROR - 17-11-2018 12:26:18 --> Severity: Notice --> Undefined index: cols /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16944
+ERROR - 17-11-2018 12:26:18 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16494
+ERROR - 17-11-2018 12:26:18 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:26:18 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16507
+INFO - 17-11-2018 12:30:29 --> Config Class Initialized
+INFO - 17-11-2018 12:30:29 --> Hooks Class Initialized
+DEBUG - 17-11-2018 12:30:29 --> UTF-8 Support Enabled
+INFO - 17-11-2018 12:30:29 --> Utf8 Class Initialized
+INFO - 17-11-2018 12:30:29 --> URI Class Initialized
+DEBUG - 17-11-2018 12:30:29 --> No URI present. Default controller set.
+INFO - 17-11-2018 12:30:29 --> Router Class Initialized
+INFO - 17-11-2018 12:30:29 --> Output Class Initialized
+INFO - 17-11-2018 12:30:29 --> Security Class Initialized
+DEBUG - 17-11-2018 12:30:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 17-11-2018 12:30:29 --> Input Class Initialized
+INFO - 17-11-2018 12:30:29 --> Language Class Initialized
+INFO - 17-11-2018 12:30:29 --> Loader Class Initialized
+INFO - 17-11-2018 12:30:29 --> Helper loaded: url_helper
+INFO - 17-11-2018 12:30:29 --> Email Class Initialized
+INFO - 17-11-2018 12:30:29 --> Helper loaded: form_helper
+INFO - 17-11-2018 12:30:29 --> Form Validation Class Initialized
+DEBUG - 17-11-2018 12:30:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 17-11-2018 12:30:29 --> Session: Class initialized using 'files' driver.
+INFO - 17-11-2018 12:30:29 --> Controller Class Initialized
+INFO - 17-11-2018 12:30:29 --> Model Class Initialized
+INFO - 17-11-2018 12:30:29 --> Model Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+INFO - 17-11-2018 12:30:29 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 17-11-2018 12:30:29 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 17-11-2018 12:30:29 --> Final output sent to browser
+DEBUG - 17-11-2018 12:30:29 --> Total execution time: 0.0358
+DEBUG - 17-11-2018 12:30:29 --> Session class already loaded. Second attempt ignored.
+INFO - 17-11-2018 12:30:29 --> Model Class Initialized
+INFO - 17-11-2018 12:30:29 --> Model Class Initialized
+INFO - 17-11-2018 12:30:29 --> Helper loaded: get_uain_details_helper
+INFO - 17-11-2018 12:30:29 --> Model Class Initialized
+INFO - 17-11-2018 12:30:29 --> Database Driver Class Initialized
+ERROR - 17-11-2018 12:30:29 --> Severity: Notice --> Undefined index: cols /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16944
+ERROR - 17-11-2018 12:30:29 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16494
+ERROR - 17-11-2018 12:30:29 --> Severity: Notice --> Undefined index: rows /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16932
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16934
+ERROR - 17-11-2018 12:30:29 --> Severity: Notice --> Undefined index: thead /var/www/html/eodbci/apps/third_party/tcpdf/tcpdf.php 16507

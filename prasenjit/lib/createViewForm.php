@@ -1,0 +1,82 @@
+<!--
+Author : Hari Prasetyo
+Website : harviacode.com
+Create Date : 08/05/2015
+
+You may edit this code, but please do not remove original information. Thanks :D
+-->
+<?php
+$folder=$target."views/" .$viewname."/";
+mkdir($folder, 0777);
+$path = $folder. $form_file;
+//echo $path."||".$folder;die();
+$createForm = fopen($path, "w") or die("Unable to open file! View Form");
+
+$result2 = mysqli_query($connection,"SELECT COLUMN_NAME,COLUMN_KEY FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA='$database' AND TABLE_NAME='$table' AND COLUMN_KEY = 'PRI'");
+$row = mysqli_fetch_assoc($result2);
+$primary = $row['COLUMN_NAME'];
+
+$string = "";
+
+if($headers) { 
+    $string = "<!doctype html>
+<html>
+    <head>
+        <title>harviacode.com - codeigniter crud generator</title>
+        <link rel=\"stylesheet\" href=\"<?php echo base_url('assets/bootstrap/css/bootstrap.min.css') ?>\"/>
+        <style>
+            body{
+                padding: 15px;
+            }
+        </style>
+    </head>
+    <body>";
+}
+
+$string .= "<h2 style=\"margin-top:0px\">".ucfirst($table)." <?php echo \$button ?></h2>
+        <form action=\"<?php echo \$action; ?>\" method=\"post\">";
+$result2 = mysqli_query($connection,"SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA='$database' AND TABLE_NAME='$table' AND COLUMN_KEY <> 'PRI'");
+if (mysqli_num_rows($result2) > 0)
+{
+    while ($row1 = mysqli_fetch_assoc($result2))
+    {
+
+        $displayName = explode("_", $row1["COLUMN_NAME"]);
+
+        if ($row1["DATA_TYPE"] == 'text')
+        {
+        $string .= "\n\t    <div class=\"form-group\">
+                <label for=\"".$row1["COLUMN_NAME"]."\">".$displayName[1]." <?php echo form_error('".$row1["COLUMN_NAME"]."') ?></label>
+                <textarea class=\"form-control\" rows=\"3\" name=\"".$row1["COLUMN_NAME"]."\" id=\"".$row1["COLUMN_NAME"]."\" placeholder=\"".$displayName[1]."\"><?php echo $".$row1["COLUMN_NAME"]."; ?></textarea>
+            </div>";
+        } else
+        {
+            if(isset($displayName[1])){
+               $dispname=$displayName[1]; 
+            }else{
+               $dispname=""; 
+            }
+        $string .= "\n\t    <div class=\"form-group\">
+                <label for=\"".$row1["DATA_TYPE"]."\">".$dispname." <?php echo form_error('".$row1["COLUMN_NAME"]."') ?></label>
+                <input type=\"text\" class=\"form-control\" name=\"".$row1["COLUMN_NAME"]."\" id=\"".$row1["COLUMN_NAME"]."\" placeholder=\"".$dispname."\" value=\"<?php echo $".$row1["COLUMN_NAME"]."; ?>\" />
+            </div>";
+        }
+    }
+}
+$string .= "\n\t    <input type=\"hidden\" name=\"".$primary."\" value=\"<?php echo $".$primary."; ?>\" /> ";
+$string .= "\n\t    <button type=\"submit\" class=\"btn btn-primary\"><?php echo \$button ?></button> ";
+$string .= "\n\t    <a href=\"<?php echo site_url('".$controller."') ?>\" class=\"btn btn-default\">Cancel</a>";
+$string .= "\n\t</form>";
+
+if($footers) {
+    $string .= "
+    </body>
+</html>";
+}
+
+
+fwrite($createForm, $string);
+fclose($createForm);
+
+$form_res = "<p>" . $path . "</p>";
+?>

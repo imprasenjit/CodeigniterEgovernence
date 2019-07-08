@@ -1,0 +1,1429 @@
+INFO - 14-09-2018 10:43:12 --> Config Class Initialized
+INFO - 14-09-2018 10:43:12 --> Hooks Class Initialized
+DEBUG - 14-09-2018 10:43:12 --> UTF-8 Support Enabled
+INFO - 14-09-2018 10:43:12 --> Utf8 Class Initialized
+INFO - 14-09-2018 10:43:12 --> URI Class Initialized
+DEBUG - 14-09-2018 10:43:12 --> No URI present. Default controller set.
+INFO - 14-09-2018 10:43:12 --> Router Class Initialized
+INFO - 14-09-2018 10:43:12 --> Output Class Initialized
+INFO - 14-09-2018 10:43:12 --> Security Class Initialized
+DEBUG - 14-09-2018 10:43:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 10:43:12 --> Input Class Initialized
+INFO - 14-09-2018 10:43:12 --> Language Class Initialized
+INFO - 14-09-2018 10:43:12 --> Loader Class Initialized
+INFO - 14-09-2018 10:43:12 --> Helper loaded: url_helper
+INFO - 14-09-2018 10:43:13 --> Email Class Initialized
+INFO - 14-09-2018 10:43:13 --> Helper loaded: form_helper
+INFO - 14-09-2018 10:43:13 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 10:43:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 10:43:13 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 10:43:13 --> Controller Class Initialized
+INFO - 14-09-2018 10:43:13 --> Model Class Initialized
+INFO - 14-09-2018 10:43:13 --> Model Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:13 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 14-09-2018 10:43:13 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 14-09-2018 10:43:13 --> Final output sent to browser
+DEBUG - 14-09-2018 10:43:13 --> Total execution time: 0.6041
+INFO - 14-09-2018 10:43:23 --> Config Class Initialized
+INFO - 14-09-2018 10:43:23 --> Hooks Class Initialized
+DEBUG - 14-09-2018 10:43:23 --> UTF-8 Support Enabled
+INFO - 14-09-2018 10:43:23 --> Utf8 Class Initialized
+INFO - 14-09-2018 10:43:23 --> URI Class Initialized
+INFO - 14-09-2018 10:43:23 --> Router Class Initialized
+INFO - 14-09-2018 10:43:23 --> Output Class Initialized
+INFO - 14-09-2018 10:43:23 --> Security Class Initialized
+DEBUG - 14-09-2018 10:43:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 10:43:23 --> Input Class Initialized
+INFO - 14-09-2018 10:43:23 --> Language Class Initialized
+INFO - 14-09-2018 10:43:23 --> Loader Class Initialized
+INFO - 14-09-2018 10:43:23 --> Helper loaded: url_helper
+INFO - 14-09-2018 10:43:23 --> Email Class Initialized
+INFO - 14-09-2018 10:43:23 --> Helper loaded: form_helper
+INFO - 14-09-2018 10:43:23 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 10:43:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 10:43:23 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 10:43:23 --> Controller Class Initialized
+INFO - 14-09-2018 10:43:23 --> Model Class Initialized
+DEBUG - 14-09-2018 10:43:23 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 14-09-2018 10:43:23 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 14-09-2018 10:43:23 --> Model Class Initialized
+INFO - 14-09-2018 10:43:23 --> Helper loaded: email_helper
+INFO - 14-09-2018 10:43:23 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:23 --> Database Driver Class Initialized
+ERROR - 14-09-2018 10:43:23 --> Severity: Notice --> Undefined variable: uid /var/www/html/eodbci/apps/models/site/Login_model.php 61
+INFO - 14-09-2018 10:43:23 --> Helper loaded: userinfo_helper
+INFO - 14-09-2018 10:43:24 --> Config Class Initialized
+INFO - 14-09-2018 10:43:24 --> Hooks Class Initialized
+DEBUG - 14-09-2018 10:43:24 --> UTF-8 Support Enabled
+INFO - 14-09-2018 10:43:24 --> Utf8 Class Initialized
+INFO - 14-09-2018 10:43:24 --> URI Class Initialized
+INFO - 14-09-2018 10:43:24 --> Router Class Initialized
+INFO - 14-09-2018 10:43:24 --> Output Class Initialized
+INFO - 14-09-2018 10:43:24 --> Security Class Initialized
+DEBUG - 14-09-2018 10:43:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 10:43:24 --> Input Class Initialized
+INFO - 14-09-2018 10:43:24 --> Language Class Initialized
+INFO - 14-09-2018 10:43:24 --> Loader Class Initialized
+INFO - 14-09-2018 10:43:24 --> Helper loaded: url_helper
+INFO - 14-09-2018 10:43:24 --> Email Class Initialized
+INFO - 14-09-2018 10:43:24 --> Helper loaded: form_helper
+INFO - 14-09-2018 10:43:24 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 10:43:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 10:43:24 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 10:43:24 --> Controller Class Initialized
+INFO - 14-09-2018 10:43:24 --> Model Class Initialized
+INFO - 14-09-2018 10:43:24 --> Model Class Initialized
+INFO - 14-09-2018 10:43:24 --> Helper loaded: caf_helper
+INFO - 14-09-2018 10:43:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:24 --> Config Class Initialized
+INFO - 14-09-2018 10:43:24 --> Hooks Class Initialized
+DEBUG - 14-09-2018 10:43:24 --> UTF-8 Support Enabled
+INFO - 14-09-2018 10:43:24 --> Utf8 Class Initialized
+INFO - 14-09-2018 10:43:24 --> URI Class Initialized
+INFO - 14-09-2018 10:43:24 --> Router Class Initialized
+INFO - 14-09-2018 10:43:24 --> Output Class Initialized
+INFO - 14-09-2018 10:43:24 --> Security Class Initialized
+DEBUG - 14-09-2018 10:43:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 10:43:24 --> Input Class Initialized
+INFO - 14-09-2018 10:43:24 --> Language Class Initialized
+INFO - 14-09-2018 10:43:24 --> Loader Class Initialized
+INFO - 14-09-2018 10:43:24 --> Helper loaded: url_helper
+INFO - 14-09-2018 10:43:24 --> Email Class Initialized
+INFO - 14-09-2018 10:43:24 --> Helper loaded: form_helper
+INFO - 14-09-2018 10:43:24 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 10:43:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 10:43:24 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 10:43:24 --> Controller Class Initialized
+INFO - 14-09-2018 10:43:24 --> Model Class Initialized
+INFO - 14-09-2018 10:43:24 --> Model Class Initialized
+INFO - 14-09-2018 10:43:24 --> Model Class Initialized
+INFO - 14-09-2018 10:43:24 --> Model Class Initialized
+INFO - 14-09-2018 10:43:24 --> Model Class Initialized
+INFO - 14-09-2018 10:43:24 --> Helper loaded: caf_helper
+INFO - 14-09-2018 10:43:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:24 --> Model Class Initialized
+INFO - 14-09-2018 10:43:24 --> Model Class Initialized
+INFO - 14-09-2018 10:43:24 --> Model Class Initialized
+INFO - 14-09-2018 10:43:24 --> Model Class Initialized
+INFO - 14-09-2018 10:43:24 --> Helper loaded: unittype_helper
+INFO - 14-09-2018 10:43:24 --> Helper loaded: get_uain_details_helper
+INFO - 14-09-2018 10:43:24 --> File loaded: /var/www/html/eodbci/views/users/requires/header.php
+INFO - 14-09-2018 10:43:24 --> File loaded: /var/www/html/eodbci/views/users/unit/myunit.php
+INFO - 14-09-2018 10:43:24 --> File loaded: /var/www/html/eodbci/views/users/requires/footer.php
+INFO - 14-09-2018 10:43:24 --> Final output sent to browser
+DEBUG - 14-09-2018 10:43:24 --> Total execution time: 0.1991
+INFO - 14-09-2018 10:43:26 --> Config Class Initialized
+INFO - 14-09-2018 10:43:26 --> Hooks Class Initialized
+DEBUG - 14-09-2018 10:43:26 --> UTF-8 Support Enabled
+INFO - 14-09-2018 10:43:26 --> Utf8 Class Initialized
+INFO - 14-09-2018 10:43:26 --> URI Class Initialized
+INFO - 14-09-2018 10:43:26 --> Router Class Initialized
+INFO - 14-09-2018 10:43:26 --> Output Class Initialized
+INFO - 14-09-2018 10:43:26 --> Security Class Initialized
+DEBUG - 14-09-2018 10:43:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 10:43:26 --> Input Class Initialized
+INFO - 14-09-2018 10:43:26 --> Language Class Initialized
+INFO - 14-09-2018 10:43:26 --> Loader Class Initialized
+INFO - 14-09-2018 10:43:26 --> Helper loaded: url_helper
+INFO - 14-09-2018 10:43:26 --> Email Class Initialized
+INFO - 14-09-2018 10:43:26 --> Helper loaded: form_helper
+INFO - 14-09-2018 10:43:26 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 10:43:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 10:43:26 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 10:43:26 --> Controller Class Initialized
+INFO - 14-09-2018 10:43:26 --> Model Class Initialized
+INFO - 14-09-2018 10:43:26 --> Model Class Initialized
+INFO - 14-09-2018 10:43:26 --> Helper loaded: unituser_helper
+INFO - 14-09-2018 10:43:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:43:26 --> File loaded: /var/www/html/eodbci/views/users/requires/header.php
+INFO - 14-09-2018 10:43:26 --> Helper loaded: unittype_helper
+INFO - 14-09-2018 10:43:26 --> Helper loaded: address_helper
+INFO - 14-09-2018 10:43:26 --> Helper loaded: formprocesses_helper
+INFO - 14-09-2018 10:43:26 --> File loaded: /var/www/html/eodbci/views/users/dashboard/unitdashboard.php
+INFO - 14-09-2018 10:43:26 --> File loaded: /var/www/html/eodbci/views/users/requires/footer.php
+INFO - 14-09-2018 10:43:26 --> Final output sent to browser
+DEBUG - 14-09-2018 10:43:26 --> Total execution time: 0.1408
+INFO - 14-09-2018 10:55:25 --> Config Class Initialized
+INFO - 14-09-2018 10:55:25 --> Hooks Class Initialized
+DEBUG - 14-09-2018 10:55:25 --> UTF-8 Support Enabled
+INFO - 14-09-2018 10:55:25 --> Utf8 Class Initialized
+INFO - 14-09-2018 10:55:25 --> URI Class Initialized
+DEBUG - 14-09-2018 10:55:25 --> No URI present. Default controller set.
+INFO - 14-09-2018 10:55:25 --> Router Class Initialized
+INFO - 14-09-2018 10:55:25 --> Output Class Initialized
+INFO - 14-09-2018 10:55:25 --> Security Class Initialized
+DEBUG - 14-09-2018 10:55:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 10:55:25 --> Input Class Initialized
+INFO - 14-09-2018 10:55:25 --> Language Class Initialized
+INFO - 14-09-2018 10:55:25 --> Loader Class Initialized
+INFO - 14-09-2018 10:55:25 --> Helper loaded: url_helper
+INFO - 14-09-2018 10:55:25 --> Email Class Initialized
+INFO - 14-09-2018 10:55:25 --> Helper loaded: form_helper
+INFO - 14-09-2018 10:55:25 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 10:55:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 10:55:25 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 10:55:25 --> Controller Class Initialized
+INFO - 14-09-2018 10:55:25 --> Model Class Initialized
+INFO - 14-09-2018 10:55:25 --> Model Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> Database Driver Class Initialized
+INFO - 14-09-2018 10:55:25 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 14-09-2018 10:55:25 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 14-09-2018 10:55:25 --> Final output sent to browser
+DEBUG - 14-09-2018 10:55:25 --> Total execution time: 0.0360
+INFO - 14-09-2018 12:38:24 --> Config Class Initialized
+INFO - 14-09-2018 12:38:24 --> Hooks Class Initialized
+DEBUG - 14-09-2018 12:38:24 --> UTF-8 Support Enabled
+INFO - 14-09-2018 12:38:24 --> Utf8 Class Initialized
+INFO - 14-09-2018 12:38:24 --> URI Class Initialized
+INFO - 14-09-2018 12:38:24 --> Router Class Initialized
+INFO - 14-09-2018 12:38:24 --> Output Class Initialized
+INFO - 14-09-2018 12:38:24 --> Security Class Initialized
+DEBUG - 14-09-2018 12:38:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 12:38:24 --> Input Class Initialized
+INFO - 14-09-2018 12:38:24 --> Language Class Initialized
+INFO - 14-09-2018 12:38:24 --> Loader Class Initialized
+INFO - 14-09-2018 12:38:24 --> Helper loaded: url_helper
+INFO - 14-09-2018 12:38:24 --> Email Class Initialized
+INFO - 14-09-2018 12:38:24 --> Helper loaded: form_helper
+INFO - 14-09-2018 12:38:24 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 12:38:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 12:38:24 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 12:38:24 --> Controller Class Initialized
+INFO - 14-09-2018 12:38:24 --> Model Class Initialized
+INFO - 14-09-2018 12:38:24 --> Model Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> Database Driver Class Initialized
+INFO - 14-09-2018 12:38:24 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 14-09-2018 12:38:24 --> File loaded: /var/www/html/eodbci/views/site/login/login_view.php
+INFO - 14-09-2018 12:38:24 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 14-09-2018 12:38:24 --> Final output sent to browser
+DEBUG - 14-09-2018 12:38:24 --> Total execution time: 0.0208
+INFO - 14-09-2018 14:53:20 --> Config Class Initialized
+INFO - 14-09-2018 14:53:20 --> Hooks Class Initialized
+DEBUG - 14-09-2018 14:53:20 --> UTF-8 Support Enabled
+INFO - 14-09-2018 14:53:20 --> Utf8 Class Initialized
+INFO - 14-09-2018 14:53:20 --> URI Class Initialized
+INFO - 14-09-2018 14:53:20 --> Router Class Initialized
+INFO - 14-09-2018 14:53:20 --> Output Class Initialized
+INFO - 14-09-2018 14:53:20 --> Security Class Initialized
+DEBUG - 14-09-2018 14:53:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 14:53:20 --> Input Class Initialized
+INFO - 14-09-2018 14:53:20 --> Language Class Initialized
+INFO - 14-09-2018 14:53:20 --> Loader Class Initialized
+INFO - 14-09-2018 14:53:20 --> Helper loaded: url_helper
+INFO - 14-09-2018 14:53:20 --> Email Class Initialized
+INFO - 14-09-2018 14:53:20 --> Helper loaded: form_helper
+INFO - 14-09-2018 14:53:20 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 14:53:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 14:53:20 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 14:53:20 --> Controller Class Initialized
+INFO - 14-09-2018 14:53:20 --> Model Class Initialized
+INFO - 14-09-2018 14:53:20 --> Model Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:20 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:21 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:21 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:21 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:21 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:21 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:21 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:21 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 14-09-2018 14:53:21 --> File loaded: /var/www/html/eodbci/views/site/login/login_view.php
+INFO - 14-09-2018 14:53:21 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 14-09-2018 14:53:21 --> Final output sent to browser
+DEBUG - 14-09-2018 14:53:21 --> Total execution time: 0.0165
+INFO - 14-09-2018 14:53:26 --> Config Class Initialized
+INFO - 14-09-2018 14:53:26 --> Hooks Class Initialized
+DEBUG - 14-09-2018 14:53:26 --> UTF-8 Support Enabled
+INFO - 14-09-2018 14:53:26 --> Utf8 Class Initialized
+INFO - 14-09-2018 14:53:26 --> URI Class Initialized
+INFO - 14-09-2018 14:53:26 --> Router Class Initialized
+INFO - 14-09-2018 14:53:26 --> Output Class Initialized
+INFO - 14-09-2018 14:53:26 --> Security Class Initialized
+DEBUG - 14-09-2018 14:53:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 14:53:26 --> Input Class Initialized
+INFO - 14-09-2018 14:53:26 --> Language Class Initialized
+INFO - 14-09-2018 14:53:26 --> Loader Class Initialized
+INFO - 14-09-2018 14:53:26 --> Helper loaded: url_helper
+INFO - 14-09-2018 14:53:26 --> Email Class Initialized
+INFO - 14-09-2018 14:53:26 --> Helper loaded: form_helper
+INFO - 14-09-2018 14:53:26 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 14:53:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 14:53:26 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 14:53:26 --> Controller Class Initialized
+INFO - 14-09-2018 14:53:26 --> Model Class Initialized
+INFO - 14-09-2018 14:53:26 --> Model Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:26 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 14-09-2018 14:53:26 --> File loaded: /var/www/html/eodbci/views/site/login/login_view.php
+INFO - 14-09-2018 14:53:26 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 14-09-2018 14:53:26 --> Final output sent to browser
+DEBUG - 14-09-2018 14:53:26 --> Total execution time: 0.0167
+INFO - 14-09-2018 14:53:51 --> Config Class Initialized
+INFO - 14-09-2018 14:53:51 --> Hooks Class Initialized
+DEBUG - 14-09-2018 14:53:51 --> UTF-8 Support Enabled
+INFO - 14-09-2018 14:53:51 --> Utf8 Class Initialized
+INFO - 14-09-2018 14:53:51 --> URI Class Initialized
+INFO - 14-09-2018 14:53:51 --> Router Class Initialized
+INFO - 14-09-2018 14:53:51 --> Output Class Initialized
+INFO - 14-09-2018 14:53:51 --> Security Class Initialized
+DEBUG - 14-09-2018 14:53:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 14:53:51 --> Input Class Initialized
+INFO - 14-09-2018 14:53:51 --> Language Class Initialized
+INFO - 14-09-2018 14:53:51 --> Loader Class Initialized
+INFO - 14-09-2018 14:53:51 --> Helper loaded: url_helper
+INFO - 14-09-2018 14:53:51 --> Email Class Initialized
+INFO - 14-09-2018 14:53:51 --> Helper loaded: form_helper
+INFO - 14-09-2018 14:53:51 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 14:53:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 14:53:51 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 14:53:51 --> Controller Class Initialized
+INFO - 14-09-2018 14:53:51 --> Model Class Initialized
+INFO - 14-09-2018 14:53:51 --> Model Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:53:51 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 14-09-2018 14:53:51 --> File loaded: /var/www/html/eodbci/views/site/login/login_view.php
+INFO - 14-09-2018 14:53:51 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 14-09-2018 14:53:51 --> Final output sent to browser
+DEBUG - 14-09-2018 14:53:51 --> Total execution time: 0.0156
+INFO - 14-09-2018 14:54:07 --> Config Class Initialized
+INFO - 14-09-2018 14:54:07 --> Hooks Class Initialized
+DEBUG - 14-09-2018 14:54:07 --> UTF-8 Support Enabled
+INFO - 14-09-2018 14:54:07 --> Utf8 Class Initialized
+INFO - 14-09-2018 14:54:07 --> URI Class Initialized
+INFO - 14-09-2018 14:54:07 --> Router Class Initialized
+INFO - 14-09-2018 14:54:07 --> Output Class Initialized
+INFO - 14-09-2018 14:54:07 --> Security Class Initialized
+DEBUG - 14-09-2018 14:54:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 14:54:07 --> Input Class Initialized
+INFO - 14-09-2018 14:54:07 --> Language Class Initialized
+INFO - 14-09-2018 14:54:07 --> Loader Class Initialized
+INFO - 14-09-2018 14:54:07 --> Helper loaded: url_helper
+INFO - 14-09-2018 14:54:07 --> Email Class Initialized
+INFO - 14-09-2018 14:54:07 --> Helper loaded: form_helper
+INFO - 14-09-2018 14:54:07 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 14:54:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 14:54:07 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 14:54:07 --> Controller Class Initialized
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+DEBUG - 14-09-2018 14:54:07 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 14-09-2018 14:54:07 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+INFO - 14-09-2018 14:54:07 --> Helper loaded: email_helper
+INFO - 14-09-2018 14:54:07 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:07 --> Database Driver Class Initialized
+ERROR - 14-09-2018 14:54:07 --> Severity: Notice --> Undefined variable: uid /var/www/html/eodbci/apps/models/site/Login_model.php 61
+INFO - 14-09-2018 14:54:07 --> Helper loaded: userinfo_helper
+INFO - 14-09-2018 14:54:07 --> Config Class Initialized
+INFO - 14-09-2018 14:54:07 --> Hooks Class Initialized
+DEBUG - 14-09-2018 14:54:07 --> UTF-8 Support Enabled
+INFO - 14-09-2018 14:54:07 --> Utf8 Class Initialized
+INFO - 14-09-2018 14:54:07 --> URI Class Initialized
+INFO - 14-09-2018 14:54:07 --> Router Class Initialized
+INFO - 14-09-2018 14:54:07 --> Output Class Initialized
+INFO - 14-09-2018 14:54:07 --> Security Class Initialized
+DEBUG - 14-09-2018 14:54:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 14:54:07 --> Input Class Initialized
+INFO - 14-09-2018 14:54:07 --> Language Class Initialized
+INFO - 14-09-2018 14:54:07 --> Loader Class Initialized
+INFO - 14-09-2018 14:54:07 --> Helper loaded: url_helper
+INFO - 14-09-2018 14:54:07 --> Email Class Initialized
+INFO - 14-09-2018 14:54:07 --> Helper loaded: form_helper
+INFO - 14-09-2018 14:54:07 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 14:54:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 14:54:07 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 14:54:07 --> Controller Class Initialized
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+INFO - 14-09-2018 14:54:07 --> Helper loaded: caf_helper
+INFO - 14-09-2018 14:54:07 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:07 --> Config Class Initialized
+INFO - 14-09-2018 14:54:07 --> Hooks Class Initialized
+DEBUG - 14-09-2018 14:54:07 --> UTF-8 Support Enabled
+INFO - 14-09-2018 14:54:07 --> Utf8 Class Initialized
+INFO - 14-09-2018 14:54:07 --> URI Class Initialized
+INFO - 14-09-2018 14:54:07 --> Router Class Initialized
+INFO - 14-09-2018 14:54:07 --> Output Class Initialized
+INFO - 14-09-2018 14:54:07 --> Security Class Initialized
+DEBUG - 14-09-2018 14:54:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 14:54:07 --> Input Class Initialized
+INFO - 14-09-2018 14:54:07 --> Language Class Initialized
+INFO - 14-09-2018 14:54:07 --> Loader Class Initialized
+INFO - 14-09-2018 14:54:07 --> Helper loaded: url_helper
+INFO - 14-09-2018 14:54:07 --> Email Class Initialized
+INFO - 14-09-2018 14:54:07 --> Helper loaded: form_helper
+INFO - 14-09-2018 14:54:07 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 14:54:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 14:54:07 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 14:54:07 --> Controller Class Initialized
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+INFO - 14-09-2018 14:54:07 --> Helper loaded: caf_helper
+INFO - 14-09-2018 14:54:07 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+INFO - 14-09-2018 14:54:07 --> Model Class Initialized
+INFO - 14-09-2018 14:54:07 --> Helper loaded: unittype_helper
+INFO - 14-09-2018 14:54:07 --> Helper loaded: get_uain_details_helper
+INFO - 14-09-2018 14:54:07 --> File loaded: /var/www/html/eodbci/views/users/requires/header.php
+INFO - 14-09-2018 14:54:07 --> File loaded: /var/www/html/eodbci/views/users/unit/myunit.php
+INFO - 14-09-2018 14:54:07 --> File loaded: /var/www/html/eodbci/views/users/requires/footer.php
+INFO - 14-09-2018 14:54:07 --> Final output sent to browser
+DEBUG - 14-09-2018 14:54:07 --> Total execution time: 0.0082
+INFO - 14-09-2018 14:54:09 --> Config Class Initialized
+INFO - 14-09-2018 14:54:09 --> Hooks Class Initialized
+DEBUG - 14-09-2018 14:54:09 --> UTF-8 Support Enabled
+INFO - 14-09-2018 14:54:09 --> Utf8 Class Initialized
+INFO - 14-09-2018 14:54:09 --> URI Class Initialized
+INFO - 14-09-2018 14:54:09 --> Router Class Initialized
+INFO - 14-09-2018 14:54:09 --> Output Class Initialized
+INFO - 14-09-2018 14:54:09 --> Security Class Initialized
+DEBUG - 14-09-2018 14:54:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 14:54:09 --> Input Class Initialized
+INFO - 14-09-2018 14:54:09 --> Language Class Initialized
+INFO - 14-09-2018 14:54:09 --> Loader Class Initialized
+INFO - 14-09-2018 14:54:09 --> Helper loaded: url_helper
+INFO - 14-09-2018 14:54:09 --> Email Class Initialized
+INFO - 14-09-2018 14:54:09 --> Helper loaded: form_helper
+INFO - 14-09-2018 14:54:09 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 14:54:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 14:54:09 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 14:54:09 --> Controller Class Initialized
+INFO - 14-09-2018 14:54:09 --> Model Class Initialized
+INFO - 14-09-2018 14:54:09 --> Model Class Initialized
+INFO - 14-09-2018 14:54:09 --> Helper loaded: unituser_helper
+INFO - 14-09-2018 14:54:09 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:09 --> File loaded: /var/www/html/eodbci/views/users/requires/header.php
+INFO - 14-09-2018 14:54:09 --> Helper loaded: unittype_helper
+INFO - 14-09-2018 14:54:09 --> Helper loaded: address_helper
+INFO - 14-09-2018 14:54:09 --> Helper loaded: formprocesses_helper
+INFO - 14-09-2018 14:54:09 --> File loaded: /var/www/html/eodbci/views/users/dashboard/unitdashboard.php
+INFO - 14-09-2018 14:54:09 --> File loaded: /var/www/html/eodbci/views/users/requires/footer.php
+INFO - 14-09-2018 14:54:09 --> Final output sent to browser
+DEBUG - 14-09-2018 14:54:09 --> Total execution time: 0.0099
+INFO - 14-09-2018 14:54:12 --> Config Class Initialized
+INFO - 14-09-2018 14:54:12 --> Hooks Class Initialized
+DEBUG - 14-09-2018 14:54:12 --> UTF-8 Support Enabled
+INFO - 14-09-2018 14:54:12 --> Utf8 Class Initialized
+INFO - 14-09-2018 14:54:12 --> URI Class Initialized
+DEBUG - 14-09-2018 14:54:12 --> No URI present. Default controller set.
+INFO - 14-09-2018 14:54:12 --> Router Class Initialized
+INFO - 14-09-2018 14:54:12 --> Output Class Initialized
+INFO - 14-09-2018 14:54:12 --> Security Class Initialized
+DEBUG - 14-09-2018 14:54:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 14:54:12 --> Input Class Initialized
+INFO - 14-09-2018 14:54:12 --> Language Class Initialized
+INFO - 14-09-2018 14:54:12 --> Loader Class Initialized
+INFO - 14-09-2018 14:54:12 --> Helper loaded: url_helper
+INFO - 14-09-2018 14:54:12 --> Email Class Initialized
+INFO - 14-09-2018 14:54:12 --> Helper loaded: form_helper
+INFO - 14-09-2018 14:54:12 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 14:54:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 14:54:12 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 14:54:12 --> Controller Class Initialized
+INFO - 14-09-2018 14:54:12 --> Model Class Initialized
+INFO - 14-09-2018 14:54:12 --> Model Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 14:54:12 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 14-09-2018 14:54:12 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 14-09-2018 14:54:12 --> Final output sent to browser
+DEBUG - 14-09-2018 14:54:12 --> Total execution time: 0.0342
+INFO - 14-09-2018 16:08:22 --> Config Class Initialized
+INFO - 14-09-2018 16:08:22 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:08:22 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:08:22 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:08:22 --> URI Class Initialized
+DEBUG - 14-09-2018 16:08:22 --> No URI present. Default controller set.
+INFO - 14-09-2018 16:08:22 --> Router Class Initialized
+INFO - 14-09-2018 16:08:22 --> Output Class Initialized
+INFO - 14-09-2018 16:08:22 --> Security Class Initialized
+DEBUG - 14-09-2018 16:08:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:08:22 --> Input Class Initialized
+INFO - 14-09-2018 16:08:22 --> Language Class Initialized
+INFO - 14-09-2018 16:08:22 --> Loader Class Initialized
+INFO - 14-09-2018 16:08:22 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:08:22 --> Email Class Initialized
+INFO - 14-09-2018 16:08:22 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:08:22 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:08:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:08:22 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:08:22 --> Controller Class Initialized
+INFO - 14-09-2018 16:08:22 --> Model Class Initialized
+INFO - 14-09-2018 16:08:22 --> Model Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> File loaded: /var/www/html/eodbci/views/site/requires/header.php
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:22 --> File loaded: /var/www/html/eodbci/views/site/home.php
+INFO - 14-09-2018 16:08:22 --> File loaded: /var/www/html/eodbci/views/site/requires/footer.php
+INFO - 14-09-2018 16:08:22 --> Final output sent to browser
+DEBUG - 14-09-2018 16:08:22 --> Total execution time: 0.0347
+INFO - 14-09-2018 16:08:25 --> Config Class Initialized
+INFO - 14-09-2018 16:08:25 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:08:25 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:08:25 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:08:25 --> URI Class Initialized
+DEBUG - 14-09-2018 16:08:25 --> No URI present. Default controller set.
+INFO - 14-09-2018 16:08:25 --> Router Class Initialized
+INFO - 14-09-2018 16:08:25 --> Output Class Initialized
+INFO - 14-09-2018 16:08:25 --> Security Class Initialized
+DEBUG - 14-09-2018 16:08:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:08:25 --> Input Class Initialized
+INFO - 14-09-2018 16:08:25 --> Language Class Initialized
+INFO - 14-09-2018 16:08:25 --> Loader Class Initialized
+INFO - 14-09-2018 16:08:25 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:08:25 --> Email Class Initialized
+INFO - 14-09-2018 16:08:25 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:08:25 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:08:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:08:25 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:08:25 --> Controller Class Initialized
+INFO - 14-09-2018 16:08:25 --> Config Class Initialized
+INFO - 14-09-2018 16:08:25 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:08:25 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:08:25 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:08:25 --> URI Class Initialized
+INFO - 14-09-2018 16:08:25 --> Router Class Initialized
+INFO - 14-09-2018 16:08:25 --> Output Class Initialized
+INFO - 14-09-2018 16:08:25 --> Security Class Initialized
+DEBUG - 14-09-2018 16:08:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:08:25 --> Input Class Initialized
+INFO - 14-09-2018 16:08:25 --> Language Class Initialized
+INFO - 14-09-2018 16:08:25 --> Loader Class Initialized
+INFO - 14-09-2018 16:08:25 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:08:25 --> Email Class Initialized
+INFO - 14-09-2018 16:08:25 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:08:25 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:08:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:08:25 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:08:25 --> Controller Class Initialized
+INFO - 14-09-2018 16:08:25 --> File loaded: /var/www/html/eodbci/views/staffs/login_view.php
+INFO - 14-09-2018 16:08:25 --> Final output sent to browser
+DEBUG - 14-09-2018 16:08:25 --> Total execution time: 0.0044
+INFO - 14-09-2018 16:08:31 --> Config Class Initialized
+INFO - 14-09-2018 16:08:31 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:08:31 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:08:31 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:08:31 --> URI Class Initialized
+INFO - 14-09-2018 16:08:31 --> Router Class Initialized
+INFO - 14-09-2018 16:08:31 --> Output Class Initialized
+INFO - 14-09-2018 16:08:31 --> Security Class Initialized
+DEBUG - 14-09-2018 16:08:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:08:31 --> Input Class Initialized
+INFO - 14-09-2018 16:08:31 --> Language Class Initialized
+INFO - 14-09-2018 16:08:31 --> Loader Class Initialized
+INFO - 14-09-2018 16:08:31 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:08:31 --> Email Class Initialized
+INFO - 14-09-2018 16:08:31 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:08:31 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:08:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:08:31 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:08:31 --> Controller Class Initialized
+DEBUG - 14-09-2018 16:08:31 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 14-09-2018 16:08:31 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 14-09-2018 16:08:31 --> File loaded: /var/www/html/eodbci/views/staffs/login_view.php
+INFO - 14-09-2018 16:08:31 --> Final output sent to browser
+DEBUG - 14-09-2018 16:08:31 --> Total execution time: 0.0039
+INFO - 14-09-2018 16:08:36 --> Config Class Initialized
+INFO - 14-09-2018 16:08:36 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:08:36 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:08:36 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:08:36 --> URI Class Initialized
+INFO - 14-09-2018 16:08:36 --> Router Class Initialized
+INFO - 14-09-2018 16:08:36 --> Output Class Initialized
+INFO - 14-09-2018 16:08:36 --> Security Class Initialized
+DEBUG - 14-09-2018 16:08:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:08:36 --> Input Class Initialized
+INFO - 14-09-2018 16:08:36 --> Language Class Initialized
+INFO - 14-09-2018 16:08:36 --> Loader Class Initialized
+INFO - 14-09-2018 16:08:36 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:08:36 --> Email Class Initialized
+INFO - 14-09-2018 16:08:36 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:08:36 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:08:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:08:36 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:08:36 --> Controller Class Initialized
+DEBUG - 14-09-2018 16:08:36 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 14-09-2018 16:08:36 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 14-09-2018 16:08:36 --> File loaded: /var/www/html/eodbci/views/staffs/login_view.php
+INFO - 14-09-2018 16:08:36 --> Final output sent to browser
+DEBUG - 14-09-2018 16:08:36 --> Total execution time: 0.0035
+INFO - 14-09-2018 16:08:45 --> Config Class Initialized
+INFO - 14-09-2018 16:08:45 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:08:45 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:08:45 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:08:45 --> URI Class Initialized
+INFO - 14-09-2018 16:08:45 --> Router Class Initialized
+INFO - 14-09-2018 16:08:45 --> Output Class Initialized
+INFO - 14-09-2018 16:08:45 --> Security Class Initialized
+DEBUG - 14-09-2018 16:08:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:08:45 --> Input Class Initialized
+INFO - 14-09-2018 16:08:45 --> Language Class Initialized
+INFO - 14-09-2018 16:08:45 --> Loader Class Initialized
+INFO - 14-09-2018 16:08:45 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:08:45 --> Email Class Initialized
+INFO - 14-09-2018 16:08:45 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:08:45 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:08:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:08:45 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:08:45 --> Controller Class Initialized
+DEBUG - 14-09-2018 16:08:45 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 14-09-2018 16:08:45 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 14-09-2018 16:08:45 --> Model Class Initialized
+INFO - 14-09-2018 16:08:45 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:45 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:45 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:08:45 --> Database Driver Class Initialized
+ERROR - 14-09-2018 16:08:45 --> Query error: Duplicate entry '1' for key 'uid' - Invalid query: INSERT INTO admin_passwords(uid, username, email, password, dept) VALUES('1', 'admin', 'eodb.assam@gmail.com', '$6$rounds=5050$5b9b8fb58950c0.8$HJyz3o9UpznKUh6ODqc/9a19f4BEczVTqy6MqPhKa6wiAO/95FsXl6UFoOQe7Z81tnmTcRfsl/5l.XCQ4kHkr/', 'factory')
+INFO - 14-09-2018 16:08:45 --> Language file loaded: language/english/db_lang.php
+INFO - 14-09-2018 16:14:11 --> Config Class Initialized
+INFO - 14-09-2018 16:14:11 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:14:11 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:14:11 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:14:11 --> URI Class Initialized
+DEBUG - 14-09-2018 16:14:11 --> No URI present. Default controller set.
+INFO - 14-09-2018 16:14:11 --> Router Class Initialized
+INFO - 14-09-2018 16:14:11 --> Output Class Initialized
+INFO - 14-09-2018 16:14:11 --> Security Class Initialized
+DEBUG - 14-09-2018 16:14:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:14:11 --> Input Class Initialized
+INFO - 14-09-2018 16:14:11 --> Language Class Initialized
+INFO - 14-09-2018 16:14:11 --> Loader Class Initialized
+INFO - 14-09-2018 16:14:11 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:14:11 --> Email Class Initialized
+INFO - 14-09-2018 16:14:11 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:14:11 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:14:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:14:11 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:14:11 --> Controller Class Initialized
+INFO - 14-09-2018 16:14:11 --> Config Class Initialized
+INFO - 14-09-2018 16:14:11 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:14:11 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:14:11 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:14:11 --> URI Class Initialized
+INFO - 14-09-2018 16:14:11 --> Router Class Initialized
+INFO - 14-09-2018 16:14:11 --> Output Class Initialized
+INFO - 14-09-2018 16:14:11 --> Security Class Initialized
+DEBUG - 14-09-2018 16:14:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:14:11 --> Input Class Initialized
+INFO - 14-09-2018 16:14:11 --> Language Class Initialized
+INFO - 14-09-2018 16:14:11 --> Loader Class Initialized
+INFO - 14-09-2018 16:14:11 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:14:11 --> Email Class Initialized
+INFO - 14-09-2018 16:14:11 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:14:11 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:14:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:14:11 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:14:11 --> Controller Class Initialized
+INFO - 14-09-2018 16:14:11 --> File loaded: /var/www/html/eodbci/views/staffs/login_view.php
+INFO - 14-09-2018 16:14:11 --> Final output sent to browser
+DEBUG - 14-09-2018 16:14:11 --> Total execution time: 0.0029
+INFO - 14-09-2018 16:14:17 --> Config Class Initialized
+INFO - 14-09-2018 16:14:17 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:14:17 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:14:17 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:14:17 --> URI Class Initialized
+INFO - 14-09-2018 16:14:17 --> Router Class Initialized
+INFO - 14-09-2018 16:14:17 --> Output Class Initialized
+INFO - 14-09-2018 16:14:17 --> Security Class Initialized
+DEBUG - 14-09-2018 16:14:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:14:17 --> Input Class Initialized
+INFO - 14-09-2018 16:14:17 --> Language Class Initialized
+INFO - 14-09-2018 16:14:17 --> Loader Class Initialized
+INFO - 14-09-2018 16:14:17 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:14:17 --> Email Class Initialized
+INFO - 14-09-2018 16:14:17 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:14:17 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:14:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:14:17 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:14:17 --> Controller Class Initialized
+DEBUG - 14-09-2018 16:14:17 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 14-09-2018 16:14:17 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 14-09-2018 16:14:17 --> Model Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Config Class Initialized
+INFO - 14-09-2018 16:14:17 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:14:17 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:14:17 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:14:17 --> URI Class Initialized
+INFO - 14-09-2018 16:14:17 --> Router Class Initialized
+INFO - 14-09-2018 16:14:17 --> Output Class Initialized
+INFO - 14-09-2018 16:14:17 --> Security Class Initialized
+DEBUG - 14-09-2018 16:14:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:14:17 --> Input Class Initialized
+INFO - 14-09-2018 16:14:17 --> Language Class Initialized
+INFO - 14-09-2018 16:14:17 --> Loader Class Initialized
+INFO - 14-09-2018 16:14:17 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:14:17 --> Email Class Initialized
+INFO - 14-09-2018 16:14:17 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:14:17 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:14:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:14:17 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:14:17 --> Controller Class Initialized
+INFO - 14-09-2018 16:14:17 --> Helper loaded: encode_helper
+INFO - 14-09-2018 16:14:17 --> Model Class Initialized
+INFO - 14-09-2018 16:14:17 --> Model Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> File loaded: /var/www/html/eodbci/views/staffs/requires/cssjs.php
+INFO - 14-09-2018 16:14:17 --> File loaded: /var/www/html/eodbci/views/staffs/requires/changepassModal.php
+INFO - 14-09-2018 16:14:17 --> File loaded: /var/www/html/eodbci/views/staffs/requires/header.php
+INFO - 14-09-2018 16:14:17 --> File loaded: /var/www/html/eodbci/views/staffs/requires/sidebar.php
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Model Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Model Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Helper loaded: get_uain_details_helper
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:14:17 --> Database Driver Class Initialized
+DEBUG - 14-09-2018 16:14:17 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 14-09-2018 16:14:17 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 14-09-2018 16:14:17 --> Encryption Class Initialized
+DEBUG - 14-09-2018 16:14:17 --> Encryption class already loaded. Second attempt ignored.
+DEBUG - 14-09-2018 16:14:17 --> Encryption class already loaded. Second attempt ignored.
+INFO - 14-09-2018 16:14:17 --> File loaded: /var/www/html/eodbci/views/staffs/requires/footer.php
+INFO - 14-09-2018 16:14:17 --> File loaded: /var/www/html/eodbci/views/staffs/home_view.php
+INFO - 14-09-2018 16:14:17 --> Final output sent to browser
+DEBUG - 14-09-2018 16:14:17 --> Total execution time: 0.1138
+INFO - 14-09-2018 16:14:52 --> Config Class Initialized
+INFO - 14-09-2018 16:14:52 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:14:52 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:14:52 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:14:52 --> URI Class Initialized
+INFO - 14-09-2018 16:14:52 --> Router Class Initialized
+INFO - 14-09-2018 16:14:52 --> Output Class Initialized
+INFO - 14-09-2018 16:14:52 --> Security Class Initialized
+DEBUG - 14-09-2018 16:14:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:14:52 --> Input Class Initialized
+INFO - 14-09-2018 16:14:52 --> Language Class Initialized
+INFO - 14-09-2018 16:14:52 --> Loader Class Initialized
+INFO - 14-09-2018 16:14:52 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:14:52 --> Email Class Initialized
+INFO - 14-09-2018 16:14:52 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:14:52 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:14:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:14:52 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:14:52 --> Controller Class Initialized
+INFO - 14-09-2018 16:14:52 --> Model Class Initialized
+INFO - 14-09-2018 16:14:52 --> Model Class Initialized
+INFO - 14-09-2018 16:14:52 --> File loaded: /var/www/html/eodbci/views/staffs/requires/cssjs.php
+INFO - 14-09-2018 16:14:52 --> File loaded: /var/www/html/eodbci/views/staffs/requires/changepassModal.php
+INFO - 14-09-2018 16:14:52 --> File loaded: /var/www/html/eodbci/views/staffs/requires/header.php
+INFO - 14-09-2018 16:14:52 --> File loaded: /var/www/html/eodbci/views/staffs/requires/sidebar.php
+INFO - 14-09-2018 16:14:52 --> File loaded: /var/www/html/eodbci/views/staffs/assets/misreports.php
+INFO - 14-09-2018 16:14:52 --> File loaded: /var/www/html/eodbci/views/staffs/requires/footer.php
+INFO - 14-09-2018 16:14:52 --> File loaded: /var/www/html/eodbci/views/staffs/misreports_view.php
+INFO - 14-09-2018 16:14:52 --> Final output sent to browser
+DEBUG - 14-09-2018 16:14:52 --> Total execution time: 0.0066
+INFO - 14-09-2018 16:14:56 --> Config Class Initialized
+INFO - 14-09-2018 16:14:56 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:14:56 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:14:56 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:14:56 --> URI Class Initialized
+INFO - 14-09-2018 16:14:56 --> Router Class Initialized
+INFO - 14-09-2018 16:14:56 --> Output Class Initialized
+INFO - 14-09-2018 16:14:56 --> Security Class Initialized
+DEBUG - 14-09-2018 16:14:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:14:56 --> Input Class Initialized
+INFO - 14-09-2018 16:14:56 --> Language Class Initialized
+INFO - 14-09-2018 16:14:56 --> Loader Class Initialized
+INFO - 14-09-2018 16:14:56 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:14:56 --> Email Class Initialized
+INFO - 14-09-2018 16:14:56 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:14:56 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:14:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:14:56 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:14:56 --> Controller Class Initialized
+INFO - 14-09-2018 16:14:56 --> Model Class Initialized
+INFO - 14-09-2018 16:14:56 --> Model Class Initialized
+INFO - 14-09-2018 16:14:56 --> File loaded: /var/www/html/eodbci/views/staffs/requires/cssjs.php
+INFO - 14-09-2018 16:14:56 --> File loaded: /var/www/html/eodbci/views/staffs/requires/changepassModal.php
+INFO - 14-09-2018 16:14:56 --> File loaded: /var/www/html/eodbci/views/staffs/requires/header.php
+INFO - 14-09-2018 16:14:56 --> File loaded: /var/www/html/eodbci/views/staffs/requires/sidebar.php
+INFO - 14-09-2018 16:14:56 --> File loaded: /var/www/html/eodbci/views/staffs/assets/misreports.php
+INFO - 14-09-2018 16:14:56 --> File loaded: /var/www/html/eodbci/views/staffs/requires/footer.php
+INFO - 14-09-2018 16:14:56 --> File loaded: /var/www/html/eodbci/views/staffs/misreports_view.php
+INFO - 14-09-2018 16:14:56 --> Final output sent to browser
+DEBUG - 14-09-2018 16:14:56 --> Total execution time: 0.0045
+INFO - 14-09-2018 16:15:01 --> Config Class Initialized
+INFO - 14-09-2018 16:15:01 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:15:01 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:15:01 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:15:01 --> URI Class Initialized
+INFO - 14-09-2018 16:15:01 --> Router Class Initialized
+INFO - 14-09-2018 16:15:01 --> Output Class Initialized
+INFO - 14-09-2018 16:15:01 --> Security Class Initialized
+DEBUG - 14-09-2018 16:15:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:15:01 --> Input Class Initialized
+INFO - 14-09-2018 16:15:01 --> Language Class Initialized
+INFO - 14-09-2018 16:15:01 --> Loader Class Initialized
+INFO - 14-09-2018 16:15:01 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:15:01 --> Email Class Initialized
+INFO - 14-09-2018 16:15:01 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:15:01 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:15:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:15:01 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:15:01 --> Controller Class Initialized
+INFO - 14-09-2018 16:15:01 --> Config Class Initialized
+INFO - 14-09-2018 16:15:01 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:15:01 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:15:01 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:15:01 --> URI Class Initialized
+INFO - 14-09-2018 16:15:01 --> Router Class Initialized
+INFO - 14-09-2018 16:15:01 --> Output Class Initialized
+INFO - 14-09-2018 16:15:01 --> Security Class Initialized
+DEBUG - 14-09-2018 16:15:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:15:01 --> Input Class Initialized
+INFO - 14-09-2018 16:15:01 --> Language Class Initialized
+INFO - 14-09-2018 16:15:01 --> Loader Class Initialized
+INFO - 14-09-2018 16:15:01 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:15:01 --> Email Class Initialized
+INFO - 14-09-2018 16:15:01 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:15:01 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:15:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:15:01 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:15:01 --> Controller Class Initialized
+INFO - 14-09-2018 16:15:01 --> File loaded: /var/www/html/eodbci/views/staffs/login_view.php
+INFO - 14-09-2018 16:15:01 --> Final output sent to browser
+DEBUG - 14-09-2018 16:15:01 --> Total execution time: 0.0030
+INFO - 14-09-2018 16:15:12 --> Config Class Initialized
+INFO - 14-09-2018 16:15:12 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:15:12 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:15:12 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:15:12 --> URI Class Initialized
+INFO - 14-09-2018 16:15:12 --> Router Class Initialized
+INFO - 14-09-2018 16:15:12 --> Output Class Initialized
+INFO - 14-09-2018 16:15:12 --> Security Class Initialized
+DEBUG - 14-09-2018 16:15:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:15:12 --> Input Class Initialized
+INFO - 14-09-2018 16:15:12 --> Language Class Initialized
+INFO - 14-09-2018 16:15:12 --> Loader Class Initialized
+INFO - 14-09-2018 16:15:12 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:15:12 --> Email Class Initialized
+INFO - 14-09-2018 16:15:12 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:15:12 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:15:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:15:12 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:15:12 --> Controller Class Initialized
+DEBUG - 14-09-2018 16:15:12 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 14-09-2018 16:15:12 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 14-09-2018 16:15:12 --> Model Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Config Class Initialized
+INFO - 14-09-2018 16:15:12 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:15:12 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:15:12 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:15:12 --> URI Class Initialized
+INFO - 14-09-2018 16:15:12 --> Router Class Initialized
+INFO - 14-09-2018 16:15:12 --> Output Class Initialized
+INFO - 14-09-2018 16:15:12 --> Security Class Initialized
+DEBUG - 14-09-2018 16:15:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:15:12 --> Input Class Initialized
+INFO - 14-09-2018 16:15:12 --> Language Class Initialized
+INFO - 14-09-2018 16:15:12 --> Loader Class Initialized
+INFO - 14-09-2018 16:15:12 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:15:12 --> Email Class Initialized
+INFO - 14-09-2018 16:15:12 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:15:12 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:15:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:15:12 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:15:12 --> Controller Class Initialized
+INFO - 14-09-2018 16:15:12 --> Helper loaded: encode_helper
+INFO - 14-09-2018 16:15:12 --> Model Class Initialized
+INFO - 14-09-2018 16:15:12 --> Model Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> File loaded: /var/www/html/eodbci/views/staffs/requires/cssjs.php
+INFO - 14-09-2018 16:15:12 --> File loaded: /var/www/html/eodbci/views/staffs/requires/changepassModal.php
+INFO - 14-09-2018 16:15:12 --> File loaded: /var/www/html/eodbci/views/staffs/requires/header.php
+INFO - 14-09-2018 16:15:12 --> File loaded: /var/www/html/eodbci/views/staffs/requires/sidebar.php
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Model Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Model Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Helper loaded: get_uain_details_helper
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:12 --> Database Driver Class Initialized
+DEBUG - 14-09-2018 16:15:12 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 14-09-2018 16:15:12 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 14-09-2018 16:15:12 --> Encryption Class Initialized
+DEBUG - 14-09-2018 16:15:12 --> Encryption class already loaded. Second attempt ignored.
+DEBUG - 14-09-2018 16:15:12 --> Encryption class already loaded. Second attempt ignored.
+DEBUG - 14-09-2018 16:15:12 --> Encryption class already loaded. Second attempt ignored.
+DEBUG - 14-09-2018 16:15:12 --> Encryption class already loaded. Second attempt ignored.
+DEBUG - 14-09-2018 16:15:12 --> Encryption class already loaded. Second attempt ignored.
+DEBUG - 14-09-2018 16:15:12 --> Encryption class already loaded. Second attempt ignored.
+INFO - 14-09-2018 16:15:12 --> File loaded: /var/www/html/eodbci/views/staffs/requires/footer.php
+INFO - 14-09-2018 16:15:12 --> File loaded: /var/www/html/eodbci/views/staffs/home_view.php
+INFO - 14-09-2018 16:15:12 --> Final output sent to browser
+DEBUG - 14-09-2018 16:15:12 --> Total execution time: 0.0516
+INFO - 14-09-2018 16:15:13 --> Config Class Initialized
+INFO - 14-09-2018 16:15:13 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:15:13 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:15:13 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:15:13 --> URI Class Initialized
+INFO - 14-09-2018 16:15:13 --> Router Class Initialized
+INFO - 14-09-2018 16:15:13 --> Output Class Initialized
+INFO - 14-09-2018 16:15:13 --> Security Class Initialized
+DEBUG - 14-09-2018 16:15:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:15:13 --> Input Class Initialized
+INFO - 14-09-2018 16:15:13 --> Language Class Initialized
+INFO - 14-09-2018 16:15:13 --> Loader Class Initialized
+INFO - 14-09-2018 16:15:13 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:15:13 --> Email Class Initialized
+INFO - 14-09-2018 16:15:13 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:15:13 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:15:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:15:13 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:15:13 --> Controller Class Initialized
+INFO - 14-09-2018 16:15:13 --> File loaded: /var/www/html/eodbci/views/staffs/requires/cssjs.php
+INFO - 14-09-2018 16:15:13 --> File loaded: /var/www/html/eodbci/views/staffs/requires/changepassModal.php
+INFO - 14-09-2018 16:15:13 --> File loaded: /var/www/html/eodbci/views/staffs/requires/header.php
+INFO - 14-09-2018 16:15:13 --> File loaded: /var/www/html/eodbci/views/staffs/requires/sidebar.php
+INFO - 14-09-2018 16:15:13 --> File loaded: /var/www/html/eodbci/views/staffs/requires/footer.php
+INFO - 14-09-2018 16:15:13 --> File loaded: /var/www/html/eodbci/views/staffs/logreports_view.php
+INFO - 14-09-2018 16:15:13 --> Final output sent to browser
+DEBUG - 14-09-2018 16:15:13 --> Total execution time: 0.0051
+INFO - 14-09-2018 16:15:13 --> Config Class Initialized
+INFO - 14-09-2018 16:15:13 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:15:13 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:15:13 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:15:13 --> URI Class Initialized
+INFO - 14-09-2018 16:15:13 --> Router Class Initialized
+INFO - 14-09-2018 16:15:13 --> Output Class Initialized
+INFO - 14-09-2018 16:15:13 --> Security Class Initialized
+DEBUG - 14-09-2018 16:15:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:15:13 --> Input Class Initialized
+INFO - 14-09-2018 16:15:13 --> Language Class Initialized
+INFO - 14-09-2018 16:15:13 --> Loader Class Initialized
+INFO - 14-09-2018 16:15:13 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:15:13 --> Email Class Initialized
+INFO - 14-09-2018 16:15:13 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:15:13 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:15:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:15:13 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:15:13 --> Controller Class Initialized
+INFO - 14-09-2018 16:15:13 --> Model Class Initialized
+INFO - 14-09-2018 16:15:13 --> Helper loaded: unittype_helper
+INFO - 14-09-2018 16:15:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:13 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:15:13 --> Final output sent to browser
+DEBUG - 14-09-2018 16:15:13 --> Total execution time: 0.0098
+INFO - 14-09-2018 16:15:14 --> Config Class Initialized
+INFO - 14-09-2018 16:15:14 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:15:14 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:15:14 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:15:14 --> URI Class Initialized
+INFO - 14-09-2018 16:15:14 --> Router Class Initialized
+INFO - 14-09-2018 16:15:14 --> Output Class Initialized
+INFO - 14-09-2018 16:15:14 --> Security Class Initialized
+DEBUG - 14-09-2018 16:15:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:15:14 --> Input Class Initialized
+INFO - 14-09-2018 16:15:14 --> Language Class Initialized
+INFO - 14-09-2018 16:15:14 --> Loader Class Initialized
+INFO - 14-09-2018 16:15:14 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:15:14 --> Email Class Initialized
+INFO - 14-09-2018 16:15:14 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:15:14 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:15:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:15:14 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:15:14 --> Controller Class Initialized
+INFO - 14-09-2018 16:15:14 --> Model Class Initialized
+INFO - 14-09-2018 16:15:14 --> Model Class Initialized
+INFO - 14-09-2018 16:15:14 --> File loaded: /var/www/html/eodbci/views/staffs/requires/cssjs.php
+INFO - 14-09-2018 16:15:14 --> File loaded: /var/www/html/eodbci/views/staffs/requires/changepassModal.php
+INFO - 14-09-2018 16:15:14 --> File loaded: /var/www/html/eodbci/views/staffs/requires/header.php
+INFO - 14-09-2018 16:15:14 --> File loaded: /var/www/html/eodbci/views/staffs/requires/sidebar.php
+INFO - 14-09-2018 16:15:14 --> File loaded: /var/www/html/eodbci/views/staffs/assets/misreports.php
+INFO - 14-09-2018 16:15:14 --> File loaded: /var/www/html/eodbci/views/staffs/requires/footer.php
+INFO - 14-09-2018 16:15:14 --> File loaded: /var/www/html/eodbci/views/staffs/misreports_view.php
+INFO - 14-09-2018 16:15:14 --> Final output sent to browser
+DEBUG - 14-09-2018 16:15:14 --> Total execution time: 0.0041
+INFO - 14-09-2018 16:15:28 --> Config Class Initialized
+INFO - 14-09-2018 16:15:28 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:15:28 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:15:28 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:15:28 --> URI Class Initialized
+INFO - 14-09-2018 16:15:28 --> Router Class Initialized
+INFO - 14-09-2018 16:15:28 --> Output Class Initialized
+INFO - 14-09-2018 16:15:28 --> Security Class Initialized
+DEBUG - 14-09-2018 16:15:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:15:28 --> Input Class Initialized
+INFO - 14-09-2018 16:15:28 --> Language Class Initialized
+INFO - 14-09-2018 16:15:28 --> Loader Class Initialized
+INFO - 14-09-2018 16:15:28 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:15:28 --> Email Class Initialized
+INFO - 14-09-2018 16:15:28 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:15:28 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:15:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:15:28 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:15:28 --> Controller Class Initialized
+INFO - 14-09-2018 16:15:28 --> Model Class Initialized
+INFO - 14-09-2018 16:15:28 --> Model Class Initialized
+INFO - 14-09-2018 16:15:28 --> File loaded: /var/www/html/eodbci/views/staffs/requires/cssjs.php
+INFO - 14-09-2018 16:15:28 --> File loaded: /var/www/html/eodbci/views/staffs/requires/changepassModal.php
+INFO - 14-09-2018 16:15:28 --> File loaded: /var/www/html/eodbci/views/staffs/requires/header.php
+INFO - 14-09-2018 16:15:29 --> File loaded: /var/www/html/eodbci/views/staffs/requires/sidebar.php
+INFO - 14-09-2018 16:15:29 --> File loaded: /var/www/html/eodbci/views/staffs/assets/misreports.php
+INFO - 14-09-2018 16:15:29 --> File loaded: /var/www/html/eodbci/views/staffs/requires/footer.php
+INFO - 14-09-2018 16:15:29 --> File loaded: /var/www/html/eodbci/views/staffs/misreports_view.php
+INFO - 14-09-2018 16:15:29 --> Final output sent to browser
+DEBUG - 14-09-2018 16:15:29 --> Total execution time: 0.0045
+INFO - 14-09-2018 16:15:39 --> Config Class Initialized
+INFO - 14-09-2018 16:15:39 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:15:39 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:15:39 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:15:39 --> URI Class Initialized
+INFO - 14-09-2018 16:15:39 --> Router Class Initialized
+INFO - 14-09-2018 16:15:39 --> Output Class Initialized
+INFO - 14-09-2018 16:15:39 --> Security Class Initialized
+DEBUG - 14-09-2018 16:15:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:15:39 --> Input Class Initialized
+INFO - 14-09-2018 16:15:39 --> Language Class Initialized
+INFO - 14-09-2018 16:15:39 --> Loader Class Initialized
+INFO - 14-09-2018 16:15:39 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:15:39 --> Email Class Initialized
+INFO - 14-09-2018 16:15:39 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:15:39 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:15:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:15:39 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:15:39 --> Controller Class Initialized
+INFO - 14-09-2018 16:15:39 --> Model Class Initialized
+INFO - 14-09-2018 16:15:39 --> Model Class Initialized
+INFO - 14-09-2018 16:15:39 --> File loaded: /var/www/html/eodbci/views/staffs/requires/cssjs.php
+INFO - 14-09-2018 16:15:39 --> File loaded: /var/www/html/eodbci/views/staffs/requires/changepassModal.php
+INFO - 14-09-2018 16:15:39 --> File loaded: /var/www/html/eodbci/views/staffs/requires/header.php
+INFO - 14-09-2018 16:15:39 --> File loaded: /var/www/html/eodbci/views/staffs/requires/sidebar.php
+INFO - 14-09-2018 16:15:39 --> File loaded: /var/www/html/eodbci/views/staffs/assets/misreports.php
+INFO - 14-09-2018 16:15:39 --> File loaded: /var/www/html/eodbci/views/staffs/requires/footer.php
+INFO - 14-09-2018 16:15:39 --> File loaded: /var/www/html/eodbci/views/staffs/misreports_view.php
+INFO - 14-09-2018 16:15:39 --> Final output sent to browser
+DEBUG - 14-09-2018 16:15:39 --> Total execution time: 0.0045
+INFO - 14-09-2018 16:20:19 --> Config Class Initialized
+INFO - 14-09-2018 16:20:19 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:20:19 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:20:19 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:20:19 --> URI Class Initialized
+INFO - 14-09-2018 16:20:19 --> Router Class Initialized
+INFO - 14-09-2018 16:20:19 --> Output Class Initialized
+INFO - 14-09-2018 16:20:19 --> Security Class Initialized
+DEBUG - 14-09-2018 16:20:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:20:19 --> Input Class Initialized
+INFO - 14-09-2018 16:20:19 --> Language Class Initialized
+INFO - 14-09-2018 16:20:19 --> Loader Class Initialized
+INFO - 14-09-2018 16:20:19 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:20:19 --> Email Class Initialized
+INFO - 14-09-2018 16:20:19 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:20:19 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:20:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:20:19 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:20:19 --> Controller Class Initialized
+INFO - 14-09-2018 16:20:19 --> Model Class Initialized
+INFO - 14-09-2018 16:20:19 --> Model Class Initialized
+INFO - 14-09-2018 16:20:19 --> File loaded: /var/www/html/eodbci/views/staffs/requires/cssjs.php
+INFO - 14-09-2018 16:20:19 --> File loaded: /var/www/html/eodbci/views/staffs/requires/changepassModal.php
+INFO - 14-09-2018 16:20:19 --> File loaded: /var/www/html/eodbci/views/staffs/requires/header.php
+INFO - 14-09-2018 16:20:19 --> File loaded: /var/www/html/eodbci/views/staffs/requires/sidebar.php
+INFO - 14-09-2018 16:20:19 --> Database Driver Class Initialized
+ERROR - 14-09-2018 16:20:19 --> Query error: Table 'eodbci_pcb.online_treasury_payments' doesn't exist - Invalid query: SELECT uain, TxnAmount as amnt, TxnDate as dt, BankReferenceNo as refno, fee_type as typ FROM online_treasury_payments UNION ALL SELECT uain, txn_amount, txn_date, txn_ref_no, fee_type FROM offline_payments
+INFO - 14-09-2018 16:20:19 --> Language file loaded: language/english/db_lang.php
+INFO - 14-09-2018 16:20:33 --> Config Class Initialized
+INFO - 14-09-2018 16:20:33 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:20:33 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:20:33 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:20:33 --> URI Class Initialized
+INFO - 14-09-2018 16:20:33 --> Router Class Initialized
+INFO - 14-09-2018 16:20:33 --> Output Class Initialized
+INFO - 14-09-2018 16:20:33 --> Security Class Initialized
+DEBUG - 14-09-2018 16:20:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:20:33 --> Input Class Initialized
+INFO - 14-09-2018 16:20:33 --> Language Class Initialized
+INFO - 14-09-2018 16:20:33 --> Loader Class Initialized
+INFO - 14-09-2018 16:20:33 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:20:33 --> Email Class Initialized
+INFO - 14-09-2018 16:20:33 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:20:33 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:20:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:20:33 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:20:33 --> Controller Class Initialized
+INFO - 14-09-2018 16:20:33 --> Config Class Initialized
+INFO - 14-09-2018 16:20:33 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:20:33 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:20:33 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:20:33 --> URI Class Initialized
+INFO - 14-09-2018 16:20:33 --> Router Class Initialized
+INFO - 14-09-2018 16:20:33 --> Output Class Initialized
+INFO - 14-09-2018 16:20:33 --> Security Class Initialized
+DEBUG - 14-09-2018 16:20:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:20:33 --> Input Class Initialized
+INFO - 14-09-2018 16:20:33 --> Language Class Initialized
+INFO - 14-09-2018 16:20:33 --> Loader Class Initialized
+INFO - 14-09-2018 16:20:33 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:20:33 --> Email Class Initialized
+INFO - 14-09-2018 16:20:33 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:20:33 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:20:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:20:33 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:20:33 --> Controller Class Initialized
+INFO - 14-09-2018 16:20:33 --> File loaded: /var/www/html/eodbci/views/staffs/login_view.php
+INFO - 14-09-2018 16:20:33 --> Final output sent to browser
+DEBUG - 14-09-2018 16:20:33 --> Total execution time: 0.0029
+INFO - 14-09-2018 16:20:43 --> Config Class Initialized
+INFO - 14-09-2018 16:20:43 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:20:43 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:20:43 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:20:43 --> URI Class Initialized
+INFO - 14-09-2018 16:20:43 --> Router Class Initialized
+INFO - 14-09-2018 16:20:43 --> Output Class Initialized
+INFO - 14-09-2018 16:20:43 --> Security Class Initialized
+DEBUG - 14-09-2018 16:20:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:20:43 --> Input Class Initialized
+INFO - 14-09-2018 16:20:43 --> Language Class Initialized
+INFO - 14-09-2018 16:20:43 --> Loader Class Initialized
+INFO - 14-09-2018 16:20:43 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:20:43 --> Email Class Initialized
+INFO - 14-09-2018 16:20:43 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:20:43 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:20:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:20:43 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:20:43 --> Controller Class Initialized
+DEBUG - 14-09-2018 16:20:43 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 14-09-2018 16:20:43 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 14-09-2018 16:20:43 --> Model Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Config Class Initialized
+INFO - 14-09-2018 16:20:43 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:20:43 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:20:43 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:20:43 --> URI Class Initialized
+INFO - 14-09-2018 16:20:43 --> Router Class Initialized
+INFO - 14-09-2018 16:20:43 --> Output Class Initialized
+INFO - 14-09-2018 16:20:43 --> Security Class Initialized
+DEBUG - 14-09-2018 16:20:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:20:43 --> Input Class Initialized
+INFO - 14-09-2018 16:20:43 --> Language Class Initialized
+INFO - 14-09-2018 16:20:43 --> Loader Class Initialized
+INFO - 14-09-2018 16:20:43 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:20:43 --> Email Class Initialized
+INFO - 14-09-2018 16:20:43 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:20:43 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:20:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:20:43 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:20:43 --> Controller Class Initialized
+INFO - 14-09-2018 16:20:43 --> Helper loaded: encode_helper
+INFO - 14-09-2018 16:20:43 --> Model Class Initialized
+INFO - 14-09-2018 16:20:43 --> Model Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> File loaded: /var/www/html/eodbci/views/staffs/requires/cssjs.php
+INFO - 14-09-2018 16:20:43 --> File loaded: /var/www/html/eodbci/views/staffs/requires/changepassModal.php
+INFO - 14-09-2018 16:20:43 --> File loaded: /var/www/html/eodbci/views/staffs/requires/header.php
+INFO - 14-09-2018 16:20:43 --> File loaded: /var/www/html/eodbci/views/staffs/requires/sidebar.php
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Model Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Model Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Helper loaded: get_uain_details_helper
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:43 --> Database Driver Class Initialized
+DEBUG - 14-09-2018 16:20:43 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 14-09-2018 16:20:43 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 14-09-2018 16:20:43 --> Encryption Class Initialized
+DEBUG - 14-09-2018 16:20:43 --> Encryption class already loaded. Second attempt ignored.
+DEBUG - 14-09-2018 16:20:43 --> Encryption class already loaded. Second attempt ignored.
+INFO - 14-09-2018 16:20:43 --> File loaded: /var/www/html/eodbci/views/staffs/requires/footer.php
+INFO - 14-09-2018 16:20:43 --> File loaded: /var/www/html/eodbci/views/staffs/home_view.php
+INFO - 14-09-2018 16:20:43 --> Final output sent to browser
+DEBUG - 14-09-2018 16:20:43 --> Total execution time: 0.0214
+INFO - 14-09-2018 16:20:46 --> Config Class Initialized
+INFO - 14-09-2018 16:20:46 --> Hooks Class Initialized
+DEBUG - 14-09-2018 16:20:46 --> UTF-8 Support Enabled
+INFO - 14-09-2018 16:20:46 --> Utf8 Class Initialized
+INFO - 14-09-2018 16:20:46 --> URI Class Initialized
+INFO - 14-09-2018 16:20:46 --> Router Class Initialized
+INFO - 14-09-2018 16:20:46 --> Output Class Initialized
+INFO - 14-09-2018 16:20:46 --> Security Class Initialized
+DEBUG - 14-09-2018 16:20:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 14-09-2018 16:20:46 --> Input Class Initialized
+INFO - 14-09-2018 16:20:46 --> Language Class Initialized
+INFO - 14-09-2018 16:20:46 --> Loader Class Initialized
+INFO - 14-09-2018 16:20:46 --> Helper loaded: url_helper
+INFO - 14-09-2018 16:20:46 --> Email Class Initialized
+INFO - 14-09-2018 16:20:46 --> Helper loaded: form_helper
+INFO - 14-09-2018 16:20:46 --> Form Validation Class Initialized
+DEBUG - 14-09-2018 16:20:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 14-09-2018 16:20:46 --> Session: Class initialized using 'files' driver.
+INFO - 14-09-2018 16:20:46 --> Controller Class Initialized
+INFO - 14-09-2018 16:20:46 --> Model Class Initialized
+INFO - 14-09-2018 16:20:46 --> Model Class Initialized
+INFO - 14-09-2018 16:20:46 --> File loaded: /var/www/html/eodbci/views/staffs/requires/cssjs.php
+INFO - 14-09-2018 16:20:46 --> File loaded: /var/www/html/eodbci/views/staffs/requires/changepassModal.php
+INFO - 14-09-2018 16:20:46 --> File loaded: /var/www/html/eodbci/views/staffs/requires/header.php
+INFO - 14-09-2018 16:20:46 --> File loaded: /var/www/html/eodbci/views/staffs/requires/sidebar.php
+INFO - 14-09-2018 16:20:46 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:46 --> Database Driver Class Initialized
+INFO - 14-09-2018 16:20:46 --> File loaded: /var/www/html/eodbci/views/staffs/assets/misreports.php
+INFO - 14-09-2018 16:20:46 --> File loaded: /var/www/html/eodbci/views/staffs/requires/footer.php
+INFO - 14-09-2018 16:20:46 --> File loaded: /var/www/html/eodbci/views/staffs/misreports_view.php
+INFO - 14-09-2018 16:20:46 --> Final output sent to browser
+DEBUG - 14-09-2018 16:20:46 --> Total execution time: 0.0311

@@ -1,0 +1,4 @@
+<div role="tabpanel" class="tab-pane active box box-primary" id="about">
+	<h2>About Us</h2>								
+	<p>The Department of Inspectorate of Factories is one of the part functionaries under the Department of Labour & Employment, Govt. of Assam. The main function of this Inspectorate is implementation of several Act & Rules. The HOD is the Chief Inspector of Factories, Assam, with its Head Office situated at Bhangagarh, G.S. Road, Guwahati-5. There are four Zonal Factory Offices headed by Senior Inspector of Factories and 7 nos.District Factory Offices under the establishment of the Chief Inspector of Factories, Assam. All Senior Inspector of Factories & Inspector of Factories are the field officers and conduct normal inspections/investigations of Factories under their jurisdiction and submit reports thereof for implementation of various provisions of the Factories Act 1948 & Assam Factories Rules,1950.</p>
+</div>

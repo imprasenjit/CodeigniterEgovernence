@@ -1,0 +1,343 @@
+<table width="99%" align="center" class="table table-bordered table-responsive" style="margin:0px auto;border-collapse: collapse" border="1">
+  	<tr>
+        <td width="50%" valign="top"> 1.Name and address of the contractor (including his father&apos;/husband&apos; name in case of individuals) </td>
+        <td width="50%">
+    		<table width="100%" align="center" class="table table-bordered table-responsive" style="margin:0px auto;border-collapse: collapse" border="1">
+      		<tr>
+        			<td width="50%">Full Name</td>
+        			<td>'.strtoupper($key_person).'</td>
+      		</tr>
+      		<tr>
+        			<td>Father/Spouse Name</td>
+        			<td>'.strtoupper($fa_sp_name).'</td>
+      		</tr>
+      		<tr>
+        			<td>Street Name 1</td>
+        			<td>'.strtoupper($street_name1).'</td>
+      		</tr>
+      		<tr>
+        			<td>Street Name 2</td>
+        			<td>'.strtoupper($street_name2).'</td>
+      		</tr>
+      		<tr>
+        			<td>Village/Town</td>
+        			<td>'.strtoupper($vill).'</td>
+      		</tr>
+      		<tr>
+        			<td>District</td>
+        			<td>'.strtoupper($dist).'</td>
+      		</tr>
+      		<tr>
+        			<td>Pincode</td>
+        			<td>'.strtoupper($pincode).'</td>
+      		</tr>
+      		<tr>
+        			<td>Mobile</td>
+        			<td>+91&nbsp;'.strtoupper($mobile_no).'</td>
+      		</tr>
+      		<tr>
+        			<td>E-MAIL ID</td>
+        			<td>'.$email.'</td>
+      		</tr>
+      		
+    		</table>
+    	</td>
+	</tr>
+	
+	
+  	<tr>
+  		
+    	<td valign="top">2. Date of birth and age (in case of individual) </td>
+    	<td>(a) Date :'.strtoupper($dob_con).' &nbsp;(b) Age :'.strtoupper($age_con).'</td>
+    		
+   </tr>
+   <tr>
+      <td colspan="2" valign="top">3.Particulars of establishment where migrant workmen are to be employed </td>
+      
+   </tr>
+   	<tr>
+  		
+   	    <td width="50%" valign="top">(a) Name and address of the establishment </td>
+    	<td>
+    		<table width="100%" align="center" class="table table-bordered table-responsive" style="margin:0px auto;border-collapse: collapse" border="1">
+      		<tr>
+        			<td width="50%"> Full Name</td>
+        			<td>'.strtoupper($unit_name).'</td>
+      		</tr>
+      		<tr>
+        			<td>Street Name 1 </td>
+        			<td>'.strtoupper($b_street_name1).'</td>
+      		</tr>
+      		<tr>
+        			<td>Street Name 2</td>
+        			<td>'.strtoupper($b_street_name2).'</td>
+      		</tr>
+      		
+      		<tr>
+        			<td>Village/Town</td>
+        			<td>'.strtoupper($b_vill).'</td>
+      		</tr>
+      		<tr>
+        			<td>District</td>
+        			<td>'.strtoupper($b_dist).'</td>
+      		</tr>
+      		<tr>
+        			<td height="29">Pincode</td>
+        			<td>'.strtoupper($b_pincode).'</td>
+      		</tr>
+      		
+    		</table>
+    	</td>
+  	</tr>
+	
+	
+  	
+  	
+  	<tr>
+  		
+   	  <td valign="top">(b) Type of business, industry, manufacture or occupation, which is carried on in the establishment </td>
+    	<td>'.strtoupper($business_type).'</td>
+  	</tr>
+
+	<tr>
+  		
+   	    <td valign="top">(c)Number and date of Certificate of Registration of the Establishment under the Act </td>
+    	<td>
+            <table width="100%" align="center" class="table table-bordered table-responsive" style="margin:0px auto;border-collapse: collapse" border="1">
+						
+							<tr>
+                                <td width="50%">Number </td>
+                                <td>'.strtoupper($reg_no).'</td>
+                            </tr>
+							
+							<tr>
+                                <td>Date </td>
+                                <td>'.strtoupper($reg_dater).'</td>
+                            </tr>                          
+            </table>
+    	</td>
+  	</tr>
+  	
+	<tr>
+  		
+   	    <td valign="top">(d) Full name and address of the Principal Employer </td>
+    	<td>
+    		<table width="100%" align="center" class="table table-bordered table-responsive" style="margin:0px auto;border-collapse: collapse" border="1">
+      		<tr>
+        			<td width="50%"> Full Name</td>
+        			<td>'.strtoupper($employer_name).'</td>
+      		</tr>
+      		<tr>
+        			<td>Street Name 1 </td>
+        			<td>'.strtoupper($employ_address_sn1).'</td>
+      		</tr>
+      		<tr>
+        			<td>Street Name 2</td>
+        			<td>'.strtoupper($employ_address_sn2).'</td>
+      		</tr>
+      		
+      		<tr>
+        			<td>Village/Town</td>
+        			<td>'.strtoupper($employ_address_vt).'</td>
+      		</tr>
+      		<tr>
+        			<td>District</td>
+        			<td>'.strtoupper($employ_address_d).'</td>
+      		</tr>
+      		<tr>
+        			<td>Pincode</td>
+        			<td>'.strtoupper($employ_address_p).'</td>
+      		</tr>
+      		
+    		</table>
+    	</td>
+  	</tr>
+  	</tr>
+
+	<tr>
+	     <td colspan="2" valign="top">4. Particulars of contract labour </td>
+     </tr>
+
+	<tr>
+  		<td valign="top">(a) Nature of work in which contract labour is employed or is to be employed in the establishment </td>
+   	     <td>'.strtoupper($contract_labour_a).'</td>
+
+   	</tr>
+   	<tr>
+        <td>(b) Duration of the proposed contract work (give particulars of proposed date of commencing and ending) </td>
+        <td>'.strtoupper($contract_labour_b).'</td>
+        
+     </tr>
+     <tr>
+        <td>(c) Name and Address of the Agent or Manager of Contractor at the work site </td>
+        <td>
+    		<table width="100%" align="center" class="table table-bordered table-responsive" style="margin:0px auto;border-collapse: collapse" border="1">
+      		<tr>
+        			<td width="50%"> Full Name</td>
+        			<td>'.strtoupper($manager_address_name).'</td>
+      		</tr>
+      		<tr>
+        			<td>Street Name 1 </td>
+        			<td>'.strtoupper($manager_address_sn1).'</td>
+      		</tr>
+      		<tr>
+        			<td>Street Name 2</td>
+        			<td>'.strtoupper($manager_address_sn2).'</td>
+      		</tr>
+      		
+      		<tr>
+        			<td>Village/Town</td>
+        			<td>'.strtoupper($manager_address_vt).'</td>
+      		</tr>
+      		<tr>
+        			<td>District</td>
+        			<td>'.strtoupper($manager_address_dist).'</td>
+      		</tr>
+      		<tr>
+        			<td height="29">Pincode</td>
+        			<td>'.strtoupper($manager_address_pin).'</td>
+      		</tr>
+      		
+    		</table>
+    	</td>
+    </tr>
+    <tr>
+        <td>(d) Maximum No. of contract labour proposed to be employed in the establishment on any date. </td>
+        <td>'.strtoupper($contract_maxno).'</td>
+    </tr>
+  	<tr>
+   	    <td valign="top">5.	Whether the contractor was convicted of any offence within the preceding five years. If so, give details.</td>
+    	<td>'.strtoupper($is_contractor_convict).'</td>
+  	</tr>
+  	
+  	<tr>
+  		
+   	     <td valign="top">6.	Whether there was any order against the contractor revoking or suspending licence or forfeiting security deposit in respect of an earlier contract. If so, the date of such order. </td>
+   	     <td>'.strtoupper($is_contractor_revok).'</td>
+    	
+    </tr>
+    <tr>
+         <td>7. Whether the contractor has worked in any other establishment within the past five years. If so, give details of the Principal Employer, establishments and nature of work. </td>
+     
+        	<td>'.strtoupper($is_contractor_work).'</td>
+     </tr>
+     <tr>
+            <td>8. Whether a certificate by the Principal Employer in Form V is enclosed. </td>
+        	<td>'.strtoupper($is_cert_enclose).'</td>
+
+    </tr>
+    <tr>
+    	<td>9.	Amount of licence fee paid-No. of Treasury Challan and date. </td>
+    	<td>
+  	     <table width="100%" align="center" class="table table-bordered table-responsive" style="margin:0px auto;border-collapse: collapse" border="1">
+      		<tr>
+        			<td width="50%"> Number of the Challan </td>
+        			<td>'.strtoupper($treasury_challan_cn).'</td>
+      		</tr>
+      		<tr>
+        			<td>Amount  </td>
+        			<td>'.strtoupper($treasury_challan_amt).'</td>
+      		</tr>
+      		<tr>
+        			<td>Date </td>
+        			<td>'.strtoupper($treasury_challan_dt).'</td>
+      		</tr>
+      		
+      		
+  	    </table>
+  	    </td>
+  	</tr>
+	<tr>
+    	<td>10. Amount of security deposit-Treasury Receipt No. and date. </td>
+    	<td>
+  	     <table width="100%" align="center" class="table table-bordered table-responsive" style="margin:0px auto;border-collapse: collapse" border="1">
+      		<tr>
+        			<td width="50%"> Number of the Challan </td>
+        			<td>'.strtoupper($security_deposit_cn).'</td>
+      		</tr>
+      		<tr>
+        			<td>Amount  </td>
+        			<td>'.strtoupper($security_deposit_amt).'</td>
+      		</tr>
+      		<tr>
+        			<td>Date </td>
+        			<td>'.strtoupper($security_deposit_dt).'</td>
+      		</tr>
+      		
+      		
+  	    </table>
+  	    </td>
+  	</tr>
+    <tr>
+    <td colspan="2">
+    <table width="100%" align="center" class="table table-bordered table-responsive" style="margin:0px auto;border-collapse: collapse" border="1">
+    <tbody>
+        <tr>
+        <td colspan="2">
+        <table border="0" width="100%">
+        <tr><td colspan="2">Documents uploaded.<br/>* NA - Not Applicable <br/>* SC - Send By Courier</td></tr>
+        <tr><td width="50%"> A duly filled up Application form in duplicate –Form IV.</td><td>'.$val1.'</td></tr>
+        <tr><td> A Xerox copy of the trade license issued by the local authorities.</td><td>'.$val2.'</td></tr>
+        <tr><td>Address Proof :</td><td>'.$val3.'</td></tr> 
+        <tr><td>Proof of date of Birth.</td><td>'.$val4.'</td></tr>
+        <tr><td>Form of Certificate by principal employer – Form V.</td><td>'.$val6.'</td></tr>
+        <tr><td>No objection certificate from police department/Police Report.</td><td>'.$val7.'</td></tr>
+        <tr><td>Xerox copy of the agreement between the Principal Employer & Contractor.</td><td>'.$val8.'</td></tr> ';
+    $printContents=$printContents.'</table>         
+    </td>
+  </tr>';
+
+            if(!empty($results["courier_details"]) && $results["courier_details"]!=1){
+            $printContents=$printContents.'
+            <tr>           
+            <td colspan="2">
+                <table border="0" width="100%" class="table table-bordered table-responsive" style="margin:0px auto;border-collapse: collapse">
+                    <tr><td height="45px" colspan="2">Courier Details.</td></tr>
+                    <tr><td width="50%">Name of Courier Service </td><td>'.strtoupper($courier_details_cn).'</td></tr>
+                    <tr><td>Ref. No. / Consignment No. </td><td>'.strtoupper($courier_details_rn).'</td></tr>
+                    <tr><td>Dispatch Date </td><td>'.strtoupper($courier_details_dt).'</td></tr>
+                </table>
+            </td>
+            </tr> ';              
+            }
+		if($results["payment_mode"]!=NULL){ 
+		$printContents=$printContents.'<tr>		    
+		<td colspan="2">
+			<table border="0" width="100%">
+			<tr><td height="45px" colspan="2">Payment Details :</td></tr>
+			<tr><td width="50%">Payment Mode :</td><td>'.strtoupper($payment_mode).'</td></tr>';
+			if($results["payment_mode"]==0)
+			{
+				$printContents=$printContents.'
+				<tr>
+					<td width="50%" valign="top">Demand Draft/Payment Reciept :</td>
+					<td>'.$offline_challan.'<br/><br/>'.
+					$formFunctions->offline_payment_details($uain) . '</td>
+				</tr>';
+			}else{
+				$printContents=$printContents.$formFunctions->online_payment_details($results["uain"]);
+			}
+			$printContents=$printContents.'</table>		
+			</td>
+		  </tr>';
+		  }
+            $printContents=$printContents.'   
+		</table>
+		</td>
+	</tr>
+		<tr>
+		    <td colspan="2"><p>Declaration : I  hereby  declare  that  the  details  given  above  are  correct  to  the best of my knowledge and belief.</p></td>
+		</tr><br>
+    
+	<tr>
+		<td colspan="3">
+		<table width="99%" align="center" class="table table-bordered table-responsive" style="margin:0px auto;border-collapse: collapse" border="0">
+			<tr>
+				<td align="left" width="60%">Date: '.strtoupper($results["sub_date"]).'<br/><br/> Place: '.strtoupper($dist).'</td>
+				<td width="40%" align="center" >'.strtoupper($key_person).'<br/>
+						Signature of the Applicant<br/>(Contractor)  </td>
+			</tr>
+			</table>
+		</td>
+    </tr>
+    </table>

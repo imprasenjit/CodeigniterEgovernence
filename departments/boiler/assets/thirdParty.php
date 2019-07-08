@@ -1,0 +1,9 @@
+<div role="tabpanel" class="tab-pane box box-primary" id="tpsc">
+	<h2>Third Party/ Self Certification</h2>		
+	<p>The specific format of “Certificate of Boiler”, exclusively prepared for the owner’s self certification model is to be issued jointly by the competent person and the boiler owner, declaring that the boiler is fit to operate at approved working pressure for a period of twelve months(for fired Boilers) fromthe date of final inspection. The period of certificate is valid for twenty four months for unfired Boiler/economizer.	</p>
+	<p>This scheme shall be called  the “Self Certification of Boilers”.</p>
+	<p>The owner of the boiler shall submit self Certification of Boilers in two copies along with challan(specified fees) of renewal inspection as prescribed under rules or regulations within fifteen days from the date of inspection to the Inspectorate of Boilers, Assam as may be changing from time to time. On receipt of the certificate and the challan, the Inspectorate of Boilers, Assam shall record certificate and the challan in Memorandum of Inspection Book and then return one copy of challan duly acknowledged along with the fitness certificate to the owner of  the Boiler within fifteen days.</p>
+	<p>This process of Self Certification ends like this.</p>
+	<p>For more information please click on hyperlink and refer to Annexure –I , Annexure –II and AnnexureIII <a href="<?php echo $server_url; ?>dept_documents/boiler/notifications/Boilers Notification for Comments.pdf" target="_blank"> <i class="fa fa-file-pdf-o" aria-hidden="true"></i>Notification for Comments.pdf</a></p>
+	
+</div>

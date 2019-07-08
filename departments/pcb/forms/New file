@@ -1,0 +1,12 @@
+pcb form82 - 
+producer - name,sn1,sn2,vill,dist,pin,mobile,phone,email,other
+auth - name,sn1,sn2,vill,dist,pin,mobile,tel,email,fax
+organization - name,sn1,sn2,vill,dist,pin,mobile,tel,email,fax
+scheme_details
+scheme_list
+budget
+programme
+is_comply
+
+
+addmore - slno,item,num1,weight1,num2,weight2 - txt

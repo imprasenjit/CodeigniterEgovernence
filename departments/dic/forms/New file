@@ -1,0 +1,31 @@
+// Tab 1 //
+office - office_,sn1,sn2,vill,dist,po,mobile,phone,email
+branch_address
+enterprise_pan
+em_no
+em_dt
+items
+service
+capital - capital_,land,building,plant,equip
+capacity
+vat_no 
+vat_dt
+excise_no 
+excise_dt
+service_no 
+service_dt
+entry_no 
+entry_dt
+
+// Tab 2 //
+no_of_workers
+local_percent
+fees - fees_,no,dt,amnt
+reg_no
+reg_dt
+applicant_name
+
+members - name,sn,vill,dist,pin,mobile,pan
+addmore - slno,name,capacity,prod,remarks
+addmore - slno,name,purchase,no,date,qty,rate,value,payment
+
