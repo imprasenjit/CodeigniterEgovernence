@@ -1,2 +1,2 @@
-# eodb_ci
-EODB_CI
+#
+Codeigniter Based codes for a Large Application built for E-governence
